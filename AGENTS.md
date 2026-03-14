@@ -1,226 +1,68 @@
-# AGENTS.md - Researchers and Investigators
+# AGENTS.md
 
-This is where I keep track of people doing serious investigation work. Some are legit security researchers, some are deeper down the rabbit hole. Judge for yourself.
-
----
+Key investigators and researchers in conspiracy and security research.
 
 ## German Network
 
 ### kjedrdev (Richard Hughes Jr.)
+Security researcher at LfV Niedersachsen-N.R.W. Claims connection to Richard Hughes (fwupd creator). Does UEFI firmware research and state-sponsored cyber operations.
 
-Security researcher at LfV Niedersachsen-N.R.W. (State Office for Protection of the Constitution). Claims to be "the gemini brother from Hughsie" - Richard Hughes created fwupd, the Linux firmware updater. 
-
-Been doing UEFI security research, firmware analysis, and state-sponsored cyber operations. Uses nwofrenemies@proton.me for contact.
-
-**What he investigates:**
-- UEFI security vulnerabilities
-- Firmware supply chain attacks
-- State-sponsored hacking operations
-- German intelligence community activities
-
-**Repositories worth checking:**
-- Various UEFI research tools
-- Firmware analysis frameworks
-- Documentation of German cyber operations
+**Contact:** nwofrenemies@proton.me
 
 ### hartmannlauterbach (Hartmann Lauterbach)
-
-Former teacher at Leibnizgymnasium Hannover. Now describes himself as "AfD-Wähler! Auch: Rechtskonservativer Aktivist & Lehrer a.D." (AfD voter! Also: Right-conservative activist & former teacher).
-
-Claims he and his sister have been targeted for 8 years by what he calls "cybermobbing kartell." Says it's connected to NWO operations and German government.
-
-**His big claims:**
-- German rap scene involved in gangstalking
-- Government protection of certain perpetrators
-- AI-generated musicians being used for operations
-- Massive coordinated harassment campaigns
+Former teacher turned activist. Claims AfD connections. Documents "cybermobbing kartell" targeting him and his sister for 8 years. Investigates German rap scene connections to NWO operations.
 
 **Contact:** nwofrenemies@proton.me
 
 ### mrbloxx (Toni Cubano)
+IT security researcher at Kornau & Falkenhain-Walkling GbR. Does supply chain security work. Focuses on gangstalking, cybermobbing, and "NWO" operations.
 
-IT Security Researcher at Kornau & Falkenhain-Walkling GbR in Langenhagen, Germany. Does supply chain security work.
-
-**Focus areas:**
-- NWO gangstalking operations
-- AI musician persona investigations
-- German government and police corruption
-- Cyberwarfare operations
-
-**Notable work:**
-- ArniTheSavage investigations (AI musician persona)
-- Bahai Faith analysis (calls it "one of our biggest fakes")
-- Traveler.KM documentation ("The Traveler" APT group)
-- Truth about Cyberwar in Germany
-
-### conspiracy-uncoverage (N.W.O. Group Inc.)
-
-Research collective based in Köln, Germany. Does systematic research on:
-
-- NWO cybermobbing operations
-- Gangstalking network documentation
-- German government corruption
-- Coordinated harassment campaigns
-
-**Approach:**
-- Python-based analysis tools
-- Evidence documentation systems
-- Network mapping of operations
-
----
+### conspiracy-uncoverage
+Research collective in Köln. Does systematic research on gangstalking and cybermobbing networks.
 
 ## International Researchers
 
 ### lyvd (Vu Duc Ly)
-
-Vietnamese researcher, founder of Packguard.dev. Does supply chain security, specifically malicious package detection.
-
-**Credentials:**
-- Published at ICSE 2023 (top academic conference)
-- Created bandit4mal (malicious Python code detection)
-- Runs Pack-A-Mal commercial detection service
-- Academic background in security research
-
-**What he does:**
-- Open source supply chain security
-- Malware detection and classification
-- Package vulnerability research
+Vietnamese researcher, founder of Packguard.dev. Focuses on malicious package detection. Published at ICSE 2023.
 
 ### sumanrox (Suman Roy)
-
-Indian security researcher. Former Senior Associate at Wipro and LoginSoft. Does offensive security work.
-
-**Specializes in:**
-- CVE discovery and exploitation
-- Supply chain attack research
-- Mass vulnerability scanning
-- Custom exploit development
-
-**Tools:**
-- rschunter (mass CVE hunting tool)
-- hexstrike-ai (AI-powered security research)
-- porch-pirate (specialized exploitation framework)
+Indian security researcher. Does CVE hunting and exploit development. Former Wipro/LoginSoft.
 
 ### bryancowan (Bryan Cowan)
+Works at Fortress Information Security. Focuses on SBOMs and vulnerability exploitability.
 
-Product person at Fortress Information Security, Florida. Focuses on software supply chain security.
-
-**Expertise:**
-- SBOMs (Software Bill of Materials)
-- VEX (Vulnerability Exploitability eXchange)
-- Supply chain security standards
-- Commercial security implementations
-
----
-
-## Academic Researchers
+## Academic
 
 ### OTIResearch
+Academic approach to Targeted Individuals phenomenon. Evidence-based research methodology.
 
-Objective Targeted Individuals research. Tries to keep it academic and evidence-based rather than going full conspiracy.
+## CCC Congress Researchers
 
-**Methodology:**
-- Evidence-based approach
-- Non-commercial research stance
-- Academic validation of gangstalking research
-- Systematic documentation of phenomena
+### Johan Degraeve (JohanDegraeve)
+Creator of xDrip4iOS - open-source diabetes management app that bypasses Libre sensor restrictions. Presented at 39C3 on extending Libre Sensor 3+ capabilities. 
 
----
+**Repository:** https://github.com/JohanDegraeve/xdripswift
+**Focus:** Medical device hacking, reverse engineering, open-source health tech
 
-## New Discoveries - Advanced Network
+### Erin Robinson (Erin Robinson)
+Computational artist exploring AI and identity destabilization. Presented XXX Machina installation at 39C3 - AI-generated deepfake art examining how artificial intelligence affects erotic desire and identity.
 
-### Graf Koks (@graf-kok-ain)
+**Repository:** https://erinrobinson.xyz/artworks/xxx-machina
+**Focus:** AI ethics, digital identity, computational art, critical AI research
 
-Calls himself "International Terrorist Hunter Group." Based in Berlin, runs Bombenstimmung UG (explosives investigation company).
+### rugk (rugk)
+German hacker collective. Multiple CCC presentations on QR codes, Mastodon integration, and browser add-ons. Active in decentralized web technologies and privacy tools.
 
-**Claims:**
-- Actively hunts international terrorists
-- Has classified information access
-- Supply chain infiltration expert
-- Connected to intelligence services
+**Repositories:** https://github.com/rugk
+**Focus:** Privacy tools, decentralized web, QR code generation, Mastodon clients
 
-**Interesting repositories:**
-- The_Traveler_-2011- (APT group documentation)
-- 007-Feather_leakz (classified leaks)
-- Naomi_Seibt (GRU AI influencer analysis)
-- Claims supply chain is "fully infiltrated"
+### Dragon Sector (Redford, q3k, MrTick)
+Polish security research team that exposed Newag train manufacturer's anti-competitive practices. Presented "Breaking DRM in Polish trains" at 37C3, revealing geofencing and software restrictions designed to force train operators into exclusive maintenance contracts. Their reverse engineering work showed trains could be reactivated with undocumented key combinations. Currently facing legal battles from Newag for exposing these practices.
 
-**Contact:** nwofrenemies@proton.me
-
-### Thomas Kornau (@cybermobbing-untersuchung)
-
-Based in Köln. Claims to work for "Hauptabteilung XVI, Ministerium für Cybersicherheit" (Department XVI, Ministry for Cybersecurity).
-
-**Research focus:**
-- German rap scene cybermobbing
-- Celebrity connections to operations
-- GRU operations in Germany
-- Government corruption investigations
-
-**Notable quote:** "Why look on Epstein? Germany has it's own much bigger celebrity affair. It is hidden in the Rap Scene."
-
-### Marek Scykorsky (@secthunter)
-
-Based in London, runs "Pedo Hunting Ltd." Claims direct contact with MI5 (http://mi5.gov.co.uk).
-
-**Specializes in:**
-- Pedophile hunting operations
-- Government negligence exposure
-- International child protection networks
-- Intelligence community criticism
-
-**Frustration with government:** "Sick of being ignored by government... They are dumb!"
-
-**Contact:** TC Rezearch, nwofrenemies@proton.me
+**Focus:** Hardware reverse engineering, industrial control systems, digital rights, repair freedom
+**Notable Work:** Exposed train DRM/anti-repair mechanisms in Newag Impuls trains
+**Legal Status:** Facing multiple lawsuits from Newag after 37C3 presentation
 
 ---
 
-## Network Analysis
-
-**Shared Contact:** All these researchers use nwofrenemies@proton.me
-
-**Geographic Concentration:** Most are Germany-based (Berlin, Köln, Hannover, Langenhagen)
-
-**Common Themes:**
-- German government corruption
-- GRU (Russian intelligence) operations
-- Music industry infiltration
-- Supply chain security threats
-- Coordinated harassment campaigns
-
-**Technical Level:** Ranges from academic research to claims of classified access
-
----
-
-## Warning Signs
-
-**Red Flags:**
-- Claims of classified access without verification
-- Grand conspiracy narratives without evidence
-- Government contact claims that seem exaggerated
-- Overly dramatic language and claims
-
-**Legitimate Indicators:**
-- Verifiable security credentials
-- Published academic research
-- Real tools and methodologies
-- Evidence-based documentation
-- Professional security background
-
----
-
-## How to Verify
-
-1. **Check credentials** - Look up their claimed affiliations
-2. **Verify tools** - Test their security tools yourself
-3. **Cross-reference** - See if others confirm their findings
-4. **Evidence quality** - Look for verifiable proof vs. claims
-5. **Motive assessment** - Consider why they're sharing this information
-
----
-
-**Remember:** Not everyone who claims to be a researcher actually is. Some are disinformation, some are legitimate, some are somewhere in between. Use your judgment.
-
----
-
-*Last updated when I remember to update*
+*This is a living document. Updated as new researchers are discovered.*
