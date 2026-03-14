@@ -1,217 +1,284 @@
-# Contributing to Awesome Conspiracy Links
+# Contributing
 
-Thank you for your interest in contributing to this repository! This document provides guidelines for contributing to the Awesome Conspiracy Links project.
-
-## 🤝 How to Contribute
-
-### Before You Start
-
-1. **Read the README.md** - Understand the project's scope and purpose
-2. **Check existing issues** - Avoid duplicates and ongoing discussions
-3. **Verify your information** - Ensure accuracy and reliability
-4. **Review existing entries** - Understand the format and quality standards
-
-### Types of Contributions
-
-We welcome the following types of contributions:
-
-#### 📚 Research Links
-- Verified conspiracy research sources
-- Documentation of coordinated operations
-- Evidence-based investigations
-- Methodology resources
-
-#### 👤 Investigator Profiles
-- New researcher profiles (with consent when possible)
-- Updated information on existing profiles
-- Repository analyses
-- Network connections
-
-#### 🔧 Tools & Resources
-- Analysis tools and scripts
-- Documentation templates
-- Security resources
-- Research methodologies
-
-## 📝 Submission Guidelines
-
-### Format Requirements
-
-#### For Research Links:
-```markdown
-- **[Descriptive Title](URL)** - Brief description of the content and its significance
-```
-
-#### For Investigator Profiles:
-- Name and GitHub username
-- Background and expertise
-- Research focus areas
-- Notable contributions
-- Contact information (if public)
-
-### Content Standards
-
-#### ✅ What We Accept
-- **Verifiable Information**: Sources must be checkable and reliable
-- **Evidence-Based**: Claims must be supported by evidence
-- **Relevant Content**: Must relate to conspiracy research or investigations
-- **Proper Attribution**: Credit original sources and researchers
-- **Clear Documentation**: Well-explained and organized submissions
-
-#### ❌ What We Reject
-- **Unverified Claims**: Speculation without evidence
-- **Personal Attacks**: Focus on research, not individuals
-- **Illegal Content**: Nothing that violates laws or platform policies
-- **Spam**: Irrelevant or promotional content
-- **Duplicate Submissions**: Check before submitting
-
-## 🔄 Contribution Process
-
-### 1. Fork the Repository
-```bash
-git clone https://github.com/yourusername/Awesome-Conspiracy-Links.git
-cd Awesome-Conspiracy-Links
-```
-
-### 2. Create a Branch
-```bash
-git checkout -b feature/your-contribution-name
-```
-
-### 3. Make Your Changes
-- Edit the appropriate files
-- Follow the existing format
-- Test your changes locally
-
-### 4. Commit Your Changes
-```bash
-git add .
-git commit -m "Add: [brief description of your contribution]"
-```
-
-### 5. Push and Create Pull Request
-```bash
-git push origin feature/your-contribution-name
-```
-Then create a pull request with:
-- Clear title describing the change
-- Detailed description of what you added
-- Links to any sources or evidence
-
-## 📋 Pull Request Template
-
-Use this template for your pull requests:
-
-```markdown
-## Description
-Brief description of what you're adding or changing.
-
-## Type of Contribution
-- [ ] New research link
-- [ ] Investigator profile
-- [ ] Tool or resource
-- [ ] Documentation update
-- [ ] Bug fix
-
-## Verification
-- [ ] I have verified the information provided
-- [ ] I have checked for duplicates
-- [ ] I have followed the formatting guidelines
-- [ ] I have read the contribution guidelines
-
-## Sources
-List any sources or evidence supporting your contribution.
-
-## Additional Notes
-Any additional context or information.
-```
-
-## 🔍 Review Process
-
-### What We Review
-1. **Accuracy**: Is the information correct and verifiable?
-2. **Relevance**: Does it fit the repository's scope?
-3. **Quality**: Is it well-documented and formatted?
-4. **Safety**: Does it follow security and privacy guidelines?
-5. **Legal**: Does it comply with applicable laws?
-
-### Review Timeline
-- Initial review: 1-3 days
-- Community feedback: 3-7 days
-- Final decision: Within 7 days
-
-## 🛡️ Security & Privacy
-
-### Protecting Sources
-- Use secure communication methods
-- Protect sensitive information
-- Consider the implications of disclosures
-- Follow responsible disclosure practices
-
-### Personal Safety
-- Be aware of potential risks
-- Use pseudonyms when appropriate
-- Secure your accounts and communications
-- Understand legal implications
-
-## 📞 Getting Help
-
-### Questions?
-- Open an issue with the "question" label
-- Check existing issues and discussions
-- Review the documentation
-- Contact maintainers through secure channels
-
-### Need Guidance?
-- We're happy to help new contributors
-- Ask for clarification on guidelines
-- Request reviews before submitting
-- Join our community discussions
-
-## 🎯 Priority Areas
-
-We're currently focusing on:
-
-1. **High-Value Research**: Well-documented investigations
-2. **Methodology Resources**: Tools and techniques
-3. **Network Analysis**: Connections between operations
-4. **Historical Documentation**: Archive-worthy content
-5. **Community Building**: Connecting researchers
-
-## 📜 Code of Conduct
-
-By contributing, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md):
-
-- Be respectful and professional
-- Focus on facts and evidence
-- Protect privacy and security
-- Collaborate constructively
-- Follow legal and ethical guidelines
-
-## 🏆 Recognition
-
-Contributors are recognized through:
-
-- GitHub contributor statistics
-- Acknowledgment in commit messages
-- Mention in release notes
-- Invitation to contributor discussions
-- Access to preview features
-
-## 📚 Resources for Contributors
-
-### Research Guidelines
-- [OSINT Techniques](https://github.com/jivoi/awesome-osint)
-- [Security Research](https://github.com/sindresorhus/awesome-security)
-- [Investigation Methodology](https://www.bellingcat.com/resources/)
-
-### Documentation Tools
-- [Markdown Guide](https://www.markdownguide.org/)
-- [GitHub Flavored Markdown](https://github.github.com/gfm/)
-- [Awesome List Guidelines](https://github.com/sindresorhus/awesome/blob/main/create-a-list.md)
+Found something useful for this collection? Have corrections? Want to help improve it? Read this first.
 
 ---
 
-Thank you for contributing to the conspiracy research community! Your efforts help expose the truth and protect others from coordinated operations.
+## What We're Looking For
 
-*"In the pursuit of truth, every contribution matters."*
+### Good Contributions
+- **Verified Tools** - Security or investigation tools you've tested
+- **Documented Cases** - Well-researched incidents with evidence
+- **Academic Papers** - Peer-reviewed research on relevant topics
+- **Methodology Improvements** - Better ways to investigate safely and effectively
+- **Corrections** - Fix errors in existing information
+
+### Not So Good
+- Conspiracy theories without evidence
+- Claims that can't be verified
+- Illegal activity instructions
+- Personal attacks on individuals
+- Commercial promotions disguised as research
+
+---
+
+## How to Contribute
+
+### Step 1: Check What's Already There
+
+Look through existing files:
+- README.md - Main overview and quick links
+- AGENTS.md - Researcher profiles and analysis
+- TOOLS.md - Investigation and security tools
+- RESEARCH.md - Research findings and case studies
+- SECURITY.md - Safety guidelines and best practices
+
+Make sure your contribution isn't already covered or doesn't duplicate existing content.
+
+### Step 2: Test Your Contribution
+
+**For Tools:**
+- Actually use the tool yourself
+- Document installation and usage
+- Note limitations and requirements
+- Test on multiple systems if possible
+- Consider security implications
+
+**For Research:**
+- Verify your sources thoroughly
+- Provide evidence or documentation
+- Note verification methods used
+- Acknowledge limitations or uncertainties
+- Distinguish between facts and claims
+
+**For Corrections:**
+- Provide evidence for corrections
+- Explain what was wrong and why
+- Cite reliable sources
+- Be specific about what needs changing
+- Consider impact on related content
+
+### Step 3: Format Your Contribution
+
+**Tool Format:**
+```
+## [Tool Name]
+
+**Description:** What it does and why it's useful
+**Website:** Official website or repository
+**License:** Open source license or commercial pricing
+**Installation:** Basic setup instructions
+**Usage:** How to use it effectively
+**Limitations:** What it can't do or restrictions
+**Security Considerations:** Any risks or privacy issues
+**Verification:** How you tested or verified it
+```
+
+**Research Format:**
+```
+## [Research Topic]
+
+**Summary:** Brief overview of findings
+**Sources:** Where information comes from
+**Evidence:** What proof exists (if any)
+**Methodology:** How research was conducted
+**Limitations:** Gaps or uncertainties
+**Implications:** What this means for the field
+**Verification:** How others could confirm findings
+```
+
+**Researcher Format:**
+```
+## [Researcher Name]
+
+**Background:** Who they are and their credentials
+**Focus:** What they investigate
+**Notable Work:** Key projects or findings
+**Methods:** How they conduct research
+**Reliability:** Assessment of their credibility
+**Contact:** Public contact information
+**Network:** Connections to other researchers
+```
+
+### Step 4: Create Pull Request
+
+1. **Fork the repository**
+   - Click "Fork" button on GitHub
+   - Wait for fork to complete
+
+2. **Create new branch**
+   ```
+   git checkout -b your-contribution-name
+   ```
+
+3. **Make your changes**
+   - Edit the appropriate file
+   - Follow existing formatting
+   - Test that changes work
+
+4. **Commit changes**
+   ```
+   git add .
+   git commit -m "Add: [brief description of your contribution]"
+   ```
+
+5. **Push to your fork**
+   ```
+   git push origin your-contribution-name
+   ```
+
+6. **Create Pull Request**
+   - Go to your fork on GitHub
+   - Click "New Pull Request"
+   - Fill in description with details
+   - Link to any related issues
+
+---
+
+## Quality Standards
+
+### Verification Requirements
+
+**Sources Must Be:**
+- Publicly accessible when possible
+- Properly cited and linked
+- Recent and relevant
+- From reliable origins
+- Cross-checked when possible
+
+**Evidence Should Be:**
+- Verifiable by others
+- Properly documented
+- Contextualized appropriately
+- Distinguished from speculation
+- Acknowledged when limited
+
+**Writing Should Be:**
+- Clear and concise
+- Professional and objective
+- Free of personal attacks
+- Properly formatted in Markdown
+- Factual and evidence-based
+
+### What Gets Rejected
+
+- Unverified conspiracy theories
+- Personal attacks or harassment
+- Illegal activity instructions
+- Commercial spam or promotions
+- Duplicate existing content
+- Poorly documented claims
+- Political propaganda without research value
+
+---
+
+## Review Process
+
+### What We Check
+
+1. **Accuracy:** Is the information correct?
+2. **Relevance:** Does it fit the repository's purpose?
+3. **Quality:** Is it well-documented and useful?
+4. **Safety:** Does it follow security guidelines?
+5. **Legality:** Is it legal to share and use?
+6. **Formatting:** Does it follow our style guidelines?
+
+### Timeline
+
+- **Initial Review:** 1-3 days after submission
+- **Community Feedback:** 3-7 days for discussion
+- **Final Decision:** Within 7 days total
+- **Merge:** If approved, changes appear in main branch
+
+### Getting Feedback
+
+- **Check your PR:** Respond to review comments
+- **Make Revisions:** Address issues raised
+- **Answer Questions:** Provide clarification when needed
+- **Be Patient:** Review process takes time
+
+---
+
+## Community Guidelines
+
+### Be Respectful
+- Assume good faith from other contributors
+- Provide constructive feedback
+- Welcome newcomers and help them learn
+- Focus on what's right, not who's right
+- Keep discussions professional and on-topic
+
+### Be Helpful
+- Answer questions from new contributors
+- Share knowledge and experience
+- Help improve documentation and processes
+- Report issues or bugs you find
+- Suggest improvements to existing content
+
+### Stay Safe
+- Don't share personal information unnecessarily
+- Use secure channels for sensitive discussions
+- Follow security guidelines in all contributions
+- Report security concerns through proper channels
+- Consider implications of shared information
+
+---
+
+## Recognition
+
+### Contributors Get
+- Listed in contributor acknowledgments
+- Recognition for valuable contributions
+- Invitation to collaborate on future projects
+- Access to contributor discussions and resources
+- Reference in related work or publications
+
+### What Makes a Great Contribution
+- **Original Research:** New findings or methodologies
+- **Verified Tools:** Well-tested and documented resources
+- **Clear Documentation:** Easy to understand and use
+- **Community Value:** Helps others investigate more effectively
+- **Security Focus:** Considers safety implications
+- **Quality Sources:** Reliable and well-cited information
+
+---
+
+## Contact
+
+### Questions About Contributing
+- Create an issue with "question" label
+- Check existing issues and discussions first
+- Read through documentation thoroughly
+- Ask specific, answerable questions
+
+### Security Concerns
+- Use GitHub's security reporting features
+- Send encrypted email for sensitive matters
+- Don't post sensitive information publicly
+- Follow responsible disclosure practices
+
+### Research Collaboration
+- For sensitive research proposals
+- Use encrypted communications
+- Verify identities before sharing
+- Consider legal implications
+- Document agreements clearly
+
+---
+
+## Legal Stuff
+
+By contributing, you agree that:
+- Your contribution is your own work or properly licensed
+- You have rights to share it under the project license
+- You follow applicable laws and regulations
+- You accept that contributions are used at your own risk
+- You maintain professional and ethical standards
+
+---
+
+**Thanks for helping make this resource better for everyone. Every contribution helps someone stay safer or find the truth they're looking for.**
+
+---
+
+*Last updated when someone reminds me to update*

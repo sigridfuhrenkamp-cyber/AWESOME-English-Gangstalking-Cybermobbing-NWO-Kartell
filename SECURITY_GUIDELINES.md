@@ -1,360 +1,347 @@
-# Security Guidelines for Conspiracy Researchers
+# Security Guidelines
 
-> Essential security practices and operational safety measures for investigators conducting sensitive research.
-
-## Table of Contents
-
-- [Digital Security](#digital-security)
-- [Operational Security (OPSEC)](#operational-security-opsec)
-- [Legal Protection](#legal-protection)
-- [Physical Security](#physical-security)
-- [Emergency Procedures](#emergency-procedures)
+How to stay safe while investigating dangerous stuff. Learned some of this the hard way.
 
 ---
 
-## Digital Security
+## Personal Security
 
-### 🔐 Account Security
+### Digital Protection
 
-#### **Password Management**
-- **Unique passwords** for each research account
-- **Password managers** (Bitwarden, KeePassXC, 1Password)
-- **Two-factor authentication** (2FA) everywhere possible
-- **Passphrase complexity**: Minimum 16 characters with mixed types
-- **Regular rotation**: Every 90 days for high-risk accounts
+**Separate Identities**
+- Use different email for research vs personal life
+- Create dedicated social media accounts
+- Don't cross-contaminate identities
+- Use pseudonyms when appropriate
 
-#### **Email Security**
-- **Encrypted providers**: ProtonMail, Tutanota, StartMail
-- **PGP encryption** for sensitive communications
-- **Separate accounts**: Personal vs research communications
-- **Alias usage**: Multiple email identities for different operations
+**Device Security**
+- Full disk encryption (VeraCrypt, BitLocker)
+- Strong, unique passwords everywhere
+- 2FA on all accounts that support it
+- Keep software updated (especially browsers, OS)
 
-#### **Social Media Security**
-- **Separate identities** for research vs personal use
-- **Privacy settings**: Maximum restrictions on all platforms
-- **Metadata awareness**: Location data, EXIF information
-- **Account isolation**: No cross-platform identifier linking
+**Network Protection**
+- Use reputable VPN (Mullvad, ProtonVPN)
+- Consider Tor for sensitive research
+- HTTPS everywhere (HTTPS Everywhere extension)
+- DNS over HTTPS or Tor
 
-### 🛡️ Device Security
+### Physical Security
 
-#### **Operating System**
-- **Security-focused OS**: Qubes OS, Tails, Whonix for high-risk work
-- **Regular updates**: Patch management for all systems
-- **Disk encryption**: Full disk encryption (BitLocker, LUKS, FileVault)
-- **Secure boot**: UEFI with secure boot enabled
+**Home Security**
+- Cameras at entry points
+- Secure windows and doors
+- Consider security system
+- Know your neighbors (build rapport)
 
-#### **Network Security**
-- **VPN usage**: Reliable, no-log VPN services
-- **Tor network**: For sensitive research and anonymous browsing
-- **DNS protection**: DNS over HTTPS/TLS (Cloudflare 1.1.1.1, Quad9)
-- **Firewall configuration**: Proper inbound/outbound filtering
-
-#### **Browser Security**
-- **Privacy browsers**: Brave, Firefox with security extensions
-- **Security extensions**: uBlock Origin, HTTPS Everywhere, Privacy Badger
-- **Containerization**: Firefox Multi-Account Containers or browser isolation
-- **Regular cleaning**: Cache, cookies, and storage clearance
+**Travel Security**
+- Vary routines, don't be predictable
+- Check for surveillance when arriving/leaving
+- Secure devices when traveling
+- Emergency plans and contacts
 
 ---
 
-## Operational Security (OPSEC)
+## Operational Security
 
-### 🎯 Research Methodology
+### Information Protection
 
-#### **Information Protection**
-- **Need-to-know basis**: Share information only with necessity
-- **Compartmentalization**: Separate different research threads
-- **Source protection**: Maintain source confidentiality
-- **Data minimization**: Collect only essential information
+**Need to Know Principle**
+- Share information on need-to-know basis only
+- Don't discuss ongoing operations publicly
+- Use secure channels for sensitive discussions
+- Document who has access to what information
 
-#### **Online Behavior**
-- **Pattern avoidance**: Vary research times and methods
-- **Digital footprint minimization**: Limit personal information exposure
-- **Social engineering awareness**: Recognize manipulation attempts
-- **Platform diversification**: Spread research across multiple platforms
+**Source Protection**
+- Verify sources before trusting information
+- Use multiple independent sources
+- Consider source motivations and biases
+- Protect whistleblower identities
 
-#### **Communication Security**
-- **Encrypted channels**: Signal, Session, Wickr for sensitive discussions
-- **Code words**: Pre-arranged terminology for sensitive topics
-- **Dead drops**: Secure methods for information exchange
-- **Verification protocols**: Multi-factor identity confirmation
+**Communication Security**
+- Use encrypted messaging (Signal, Session)
+- Avoid discussing sensitive topics on insecure platforms
+- Delete sensitive conversations when done
+- Use disappearing messages when appropriate
 
-### 📊 Documentation Security
+### Legal Protection
 
-#### **Evidence Handling**
-- **Secure storage**: Encrypted drives for sensitive materials
-- **Metadata removal**: Strip identifying information from documents
-- **Version control**: Secure Git repositories with encrypted commits
-- **Backup procedures**: Regular, secure backup of research materials
+**Know Your Laws**
+- Research surveillance and privacy laws in your jurisdiction
+- Understand what constitutes illegal monitoring
+- Know your rights regarding searches and seizures
+- Consider legal consultation for risky activities
 
-#### **Publishing Considerations**
-- **Information classification**: Public, sensitive, classified categorization
-- **Source protection**: Anonymize or protect source identities
-- **Legal review**: Consult legal counsel before publication
-- **Impact assessment**: Evaluate potential consequences of disclosure
-
----
-
-## Legal Protection
-
-### ⚖️ Jurisdiction Awareness
-
-#### **Legal Framework**
-- **Local laws**: Research and surveillance legislation
-- **International law**: Cross-border implications
-- **Computer crime laws**: Hacking, unauthorized access statutes
-- **Defamation laws**: Publication and speech limitations
-- **Data protection**: GDPR, CCPA, and similar regulations
-
-#### **Rights Understanding**
-- **Search and seizure**: Legal limits and requirements
-- **Due process**: Legal protection against arbitrary action
-- **Whistleblower protections**: Legal safeguards for disclosures
-- **Journalist privileges**: Press freedom and source protection
-
-### 👨‍⚖️ Legal Support
-
-#### **Professional Counsel**
-- **Security lawyers**: Specialized in digital rights and surveillance
-- **Media lawyers**: Expertise in publication and defamation law
-- **Civil liberties organizations**: ACLU, EFF, Privacy International
-- **Legal insurance**: Professional liability coverage
-
-#### **Documentation**
-- **Evidence preservation**: Chain of custody maintenance
-- **Legal logs**: Detailed records of research activities
-- **Witness documentation**: Corroboration and verification
-- **Incident reporting**: Legal violation documentation and reporting
+**Documentation**
+- Keep evidence logs with timestamps
+- Note legal basis for your actions
+- Document threats or harassment
+- Backup evidence securely and in multiple locations
 
 ---
 
-## Physical Security
+## Technical Security
 
-### 🏠 Home Security
+### System Hardening
 
-#### **Physical Protection**
-- **Secure premises**: Locks, alarms, surveillance systems
-- **Mail security**: P.O. boxes, secure mail handling
-- **Visitor protocols**: Controlled access and verification
-- **Emergency planning**: Escape routes and safe locations
+**Operating System**
+- Use security-focused OS (Qubes OS, Tails) for high-risk work
+- Disable unnecessary services and ports
+- Regular security updates
+- Host-based firewalls configured
 
-#### **Device Security**
-- **Hardware protection**: Laptop locks, encrypted storage
-- **Destruction methods**: Secure data destruction procedures
-- **Travel security**: Safe device transport and usage
-- **Backup locations**: Off-site secure storage
+**Application Security**
+- Use open source software when possible
+- Review app permissions carefully
+- Disable telemetry and data collection
+- Regular security audits
 
-### 🌍 Travel Security
+**Browser Security**
+- Use privacy-focused browsers (Brave, Firefox with hardening)
+- Disable JavaScript when not needed
+- Use HTTPS Everywhere, uBlock Origin
+- Regular cookie and cache clearing
 
-#### **Operational Security**
-- **Device preparation**: Clean devices for sensitive travel
-- **Communication security**: Secure channels while traveling
-- **Surveillance awareness**: Recognition of monitoring techniques
-- **Border crossing**: Rights and device preparation
+### Network Security
 
-#### **Meeting Security**
-- **Safe locations**: Secure meeting venues and procedures
-- **Participant verification**: Identity confirmation protocols
-- **Sweep protocols**: Electronic surveillance detection
-- **Emergency signals**: Pre-arranged distress communications
+**Home Network**
+- Change default router passwords
+- Update firmware regularly
+- Disable WPS if possible
+- Use WPA3 encryption
+- Consider separate network for research work
+
+**Public Networks**
+- Avoid public WiFi for sensitive work
+- Use VPN if absolutely necessary
+- Assume all traffic is monitored
+- Consider cellular hotspot as alternative
+
+---
+
+## Social Engineering Protection
+
+### Common Tactics
+
+**Phishing**
+- Verify unexpected messages independently
+- Don't click suspicious links
+- Check email headers carefully
+- Use password managers to avoid typing passwords
+
+**Impersonation**
+- Verify identities through multiple channels
+- Be suspicious of urgent requests
+- Question unusual communication patterns
+- Use pre-established contact methods
+
+**Manipulation**
+- Watch for emotional manipulation tactics
+- Be skeptical of "too good to be true" offers
+- Verify through independent sources
+- Consult with trusted colleagues before acting
 
 ---
 
 ## Emergency Procedures
 
-### 🚨 Threat Assessment
+### Threat Assessment
 
-#### **Immediate Threats**
-- **Direct threats**: Immediate law enforcement notification
-- **Surveillance detection**: Documentation and countermeasures
-- **Digital compromise**: Account security and device isolation
-- **Physical intrusions**: Emergency services and safe locations
+**Immediate Danger**
+- Move to safe location immediately
+- Contact emergency services
+- Preserve evidence if safe to do so
+- Don't try to be a hero
+- Have go-bag ready
 
-#### **Escalation Protocols**
-- **Threat levels**: Low, medium, high, critical classification
-- **Response procedures**: Appropriate actions for each level
-- **Contact protocols**: Pre-arranged emergency communications
-- **Evacuation plans**: Safe location and transport procedures
+**Digital Threats**
+- Disconnect from internet if compromised
+- Change all passwords from secure device
+- Enable 2FA on all accounts
+- Run malware scans on all devices
+- Consider professional help
 
-### 🆘 Emergency Contacts
+**Legal Threats**
+- Contact lawyer immediately
+- Don't speak to law enforcement without lawyer
+- Document all interactions
+- Preserve all relevant evidence
+- Know your rights
 
-#### **Primary Contacts**
-- **Emergency services**: Police, fire, medical (local numbers)
-- **Legal counsel**: 24/7 attorney contact information
-- **Security professionals**: Trusted security advisors
-- **Family contacts**: Emergency notification procedures
+### Emergency Contacts
 
-#### **Secondary Contacts**
-- **Media contacts**: Journalists and media organizations
-- **Civil liberties**: Legal rights organizations
-- **International support**: Embassy and consular contacts
-- **Community networks**: Fellow researchers and support groups
+**Legal**
+- Criminal defense lawyer contact
+- Civil liberties organization
+- Legal aid services
+- Embassy/consulate if abroad
 
----
+**Technical**
+- Trusted IT security professional
+- Digital forensics expert
+- Secure device disposal service
+- Emergency data recovery
 
-## Risk Mitigation
-
-### 🎭 Social Engineering Protection
-
-#### **Recognition Techniques**
-- **Phishing identification**: Email and message analysis
-- **Impersonation detection**: Fake profiles and communications
-- **Manipulation tactics**: Psychological manipulation recognition
-- **Verification protocols**: Multi-factor identity confirmation
-
-#### **Response Procedures**
-- **No engagement**: Do not respond to suspicious communications
-- **Verification requests**: Independent confirmation of identity
-- **Reporting protocols**: Document and report suspicious activities
-- **Isolation procedures**: Separate compromised accounts and devices
-
-### 🔍 Surveillance Detection
-
-#### **Digital Surveillance**
-- **Network monitoring**: Unusual network activity detection
-- **Device anomalies**: Battery drain, data usage, performance issues
-- **Account access**: Unauthorized login notifications and analysis
-- **Software monitoring**: Unexpected applications and processes
-
-#### **Physical Surveillance**
-- **Vehicle tracking**: Unusual devices and tampering
-- **Residential monitoring**: Strange vehicles, individuals, activities
-- **Technical surveillance**: Hidden cameras, audio devices, GPS trackers
-- **Behavioral indicators**: Repeated encounters and patterns
+**Personal**
+- Trusted family/friends
+- Medical professionals
+- Mental health support
+- Financial advisor (if needed)
 
 ---
 
-## Training and Preparation
+## Travel Security
 
-### 📚 Continuous Education
+### International Travel
 
-#### **Security Training**
-- **OPSEC courses**: Regular operational security training
-- **Technical skills**: Security tool usage and techniques
-- **Legal education**: Rights and responsibilities understanding
-- **Emergency drills**: Regular practice of emergency procedures
+**Preparation**
+- Research local laws and customs
+- Have digital copies of important documents
+- Configure devices for international use
+- Consider clean travel devices
+- Embassy registration
 
-#### **Community Support**
-- **Information sharing**: Threat intelligence exchange
-- **Mutual aid**: Researcher support networks
-- **Collective security**: Group protection and monitoring
-- **Knowledge transfer**: Training and mentoring relationships
+**During Travel**
+- Assume constant surveillance
+- Use VPN/Tor consistently
+- Avoid discussing sensitive topics in public
+- Regular security sweeps of accommodations
+- Meet in public places for sensitive discussions
 
----
-
-## Recovery Procedures
-
-### 🔄 Incident Response
-
-#### **Digital Recovery**
-- **Account recovery**: Secure account reclamation procedures
-- **Device restoration**: Clean system installation and setup
-- **Data recovery**: Encrypted backup restoration and verification
-- **Network cleanup**: Malware removal and security hardening
-
-#### **Operational Recovery**
-- **Research continuation**: Alternative methods and platforms
-- **Source protection**: Re-establishing secure communications
-- **Evidence preservation**: Maintaining research integrity
-- **Security upgrade**: Implementing lessons learned and improvements
+**Border Crossings**
+- Expect device searches
+- Consider encrypted travel drives
+- Have plausible explanations for research tools
+- Know rights regarding device searches
+- Consider separate devices for sensitive data
 
 ---
 
-## Mental Health and Support
+## Mental Health
 
-### 🧠 Psychological Support
+### Stress Management
 
-#### **Stress Management**
-- **Regular breaks**: Preventing burnout and fatigue
-- **Professional counseling**: Mental health support services
-- **Peer support**: Researcher community and discussion groups
-- **Work-life balance**: Maintaining personal wellbeing
+**Recognize Burnout**
+- Take regular breaks from research
+- Maintain work-life boundaries
+- Practice stress reduction techniques
+- Seek professional help when needed
+- Don't let research consume your life
 
-#### **Trauma Support**
-- **Incident debriefing**: Professional psychological support
-- **PTSD awareness**: Recognizing and treating trauma symptoms
-- **Support networks**: Access to trauma-informed resources
-- **Recovery planning**: Long-term mental health strategies
+**Paranoia Management**
+- Stay grounded in reality
+- Verify threats objectively
+- Discuss concerns with trusted people
+- Take breaks from constant monitoring
+- Remember that not everything is a threat
 
----
-
-## 🚨 Anti-Sadist Defense Strategies
-
-### 🎯 **Identifying Sadistic Perpetrators**
-
-#### **Behavioral Indicators**
-- **Pleasure-Based Harassment**: Evidence of enjoyment from victim suffering
-- **Escalation for Amusement**: Increasing harassment for entertainment value
-- **Psychological Cruelty**: Deliberate infliction of emotional and mental pain
-- **Torture Patterns**: Methods designed specifically for psychological suffering
-- **Lack of Operational Purpose**: Harassment without clear objective beyond sadism
-
-#### **Documentation Requirements**
-- **Motivation Evidence**: Record indicators of perpetrator pleasure and intent
-- **Pattern Analysis**: Document escalation and enjoyment-based behaviors
-- **Impact Assessment**: Systematic recording of psychological harm
-- **Legal Classification**: Frame evidence for psychological torture charges
-- **Witness Corroboration**: Collect third-party observations of sadistic behavior
-
-### 🛡️ **Counter-Sadist Operations**
-
-#### **Legal Strategies**
-- **Psychological Torture Charges**: Pursue charges specifically addressing sadistic intent
-- **Enhanced Sentencing**: Document sadistic motivation for enhanced penalties
-- **Civil Rights Violations**: File charges for intentional infliction of emotional distress
-- **Conspiracy Charges**: Document coordinated sadistic operations
-- **International Law**: Consider human rights violations for psychological torture
-
-#### **Technical Countermeasures**
-- **Anti-Sadism Technology**: Deploy systems specifically designed to counter sadistic harassment
-- **Psychological Defense**: Develop resilience against sadistic manipulation and torture
-- **Community Alert Networks**: Rapid warning systems for sadistic operator activity
-- **Evidence Preservation**: Secure systems to protect sadistic behavior documentation
-- **Legal Documentation**: Automated systems for building legal cases against sadists
-
-#### **Community Defense**
-- **Operator Identification**: Share information about known sadistic perpetrators
-- **Mutual Protection**: Coordinate defense against sadistic operators
-- **Rapid Response**: Emergency systems for immediate sadistic attack response
-- **Legal Cooperation**: Collective legal action against sadistic networks
-- **Public Exposure**: Document and expose sadistic methods to deter future operations
+**Support Systems**
+- Regular check-ins with trusted contacts
+- Professional counseling or therapy
+- Peer support groups (verify legitimacy)
+- Emergency mental health resources
+- Exit strategies if needed
 
 ---
 
-## Conclusion
+## Backup and Recovery
 
-These security guidelines provide a comprehensive framework for conducting conspiracy research safely and effectively. Security is not a one-time implementation but an ongoing process of assessment, improvement, and adaptation to evolving threats.
+### Data Backup
 
-**Regular Review**: Monthly security assessment and updates
-**Community Contribution**: Share threat intelligence and security improvements
-**Continuous Learning**: Stay updated on new threats and protection methods
+**3-2-1 Rule**
+- 3 copies of important data
+- 2 different media types
+- 1 copy off-site/encrypted
+- Regular backup schedule
+- Test restoration procedures
+
+**Encrypted Backups**
+- Use strong encryption (AES-256)
+- Secure password management
+- Consider cloud encryption (Cryptomator)
+- Multiple geographic locations
+- Regular backup verification
+
+### Recovery Planning
+
+**Data Recovery**
+- Contact reputable recovery services
+- Have recovery tools ready
+- Know recovery costs and options
+- Document recovery procedures
+- Consider cyber insurance
+
+**Identity Recovery**
+- Identity theft protection services
+- Credit monitoring if relevant
+- Document recovery steps
+- Legal action planning
+- Emergency identity restoration contacts
 
 ---
 
-*"Security is not about eliminating all risks, but managing them intelligently while pursuing truth."*
+## Professional Security
+
+### For High-Risk Work
+
+**Consultation**
+- Regular security assessments
+- Professional penetration testing
+- Threat intelligence services
+- Legal compliance reviews
+- Insurance coverage evaluation
+
+**Training**
+- Regular security training
+- Threat awareness updates
+- Emergency response drills
+- Technical skill development
+- Legal rights education
 
 ---
 
-## Quick Reference
+## Common Mistakes
 
-### 🚨 Immediate Actions
-1. **Threat detected** → Document, isolate, report
-2. **Compromise suspected** → Disconnect, verify, secure
-3. **Legal questions** → Contact counsel immediately
-4. **Emergency situation** → Activate predefined protocols
+**What to Avoid**
+- Using personal accounts for research
+- Discussing operations on insecure channels
+- Keeping sensitive data unencrypted
+- Failing to update systems regularly
+- Ignoring security best practices
+- Working alone without support network
 
-### 📞 Emergency Numbers
-- **Local Police**: [Your local emergency number]
-- **Legal Counsel**: [Your attorney's number]
-- **Security Contact**: [Your security professional]
-- **Trusted Contact**: [Your trusted verification contact]
+**Red Flags**
+- Anyone asking for unnecessary personal info
+- Requests to bypass security measures
+- Pressure to share sensitive data
+- Unsolicited "help" from unknown sources
+- Attempts to access your systems
 
-### 🔐 Security Checklist
-- [ ] 2FA enabled on all accounts
-- [ ] VPN/Tor configured and tested
-- [ ] Encrypted email set up and verified
-- [ ] Emergency contacts documented and accessible
-- [ ] Data backups encrypted and stored securely
-- [ ] Legal counsel consulted and retained
-- [ ] OPSEC procedures reviewed and practiced
-- [ ] Mental health support established
+---
+
+## Final Notes
+
+**Stay Skeptical**
+- Question extraordinary claims
+- Verify extraordinary evidence
+- Consider source motivations
+- Maintain professional standards
+- Protect your integrity
+
+**Stay Ethical**
+- Respect privacy of others
+- Follow applicable laws
+- Don't become what you're investigating
+- Maintain professional boundaries
+- Report actual crimes to authorities
+
+**Stay Safe**
+- Your life is more important than any investigation
+- Have clear exit strategies
+- Know when to walk away
+- Maintain emergency readiness
+- Keep perspective on risks
+
+---
+
+*Security is an ongoing process, not a one-time setup. Stay vigilant, stay alive.*
