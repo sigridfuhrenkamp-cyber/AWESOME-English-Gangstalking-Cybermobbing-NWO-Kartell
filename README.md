@@ -1,46 +1,70 @@
 # Awesome Conspiracy Links
 
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Stars](https://img.shields.io/github/stars/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links.svg?style=social&label=Star)](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links)
+[![Contributors](https://img.shields.io/github/contributors/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links.svg)](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links.svg)](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/commits/main)
+
 > A curated list of awesome conspiracy research resources, tools, and investigator profiles.
 
-## Table of Contents
+</div>
 
-- [Introduction](#introduction)
-- [Repository Structure](#repository-structure)
-- [Key Investigators](#key-investigators)
-- [Research Collections](#research-collections)
-- [Tools & Resources](#tools--resources)
-- [Security Guidelines](#security-guidelines)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## 📋 Table of Contents
+
+- [🎯 Introduction](#-introduction)
+- [🏗️ Repository Structure](#️-repository-structure)
+- [🕵️ Key Investigators](#️-key-investigators)
+  - [🇩🇪 German Research Network](#️-german-research-network)
+  - [🌍 International Supply Chain Security Experts](#-international-supply-chain-security-experts)
+  - [🏛️ CCC Congress Researchers](#️-ccc-congress-researchers)
+  - [🎓 Academic & Research Organizations](#-academic--research-organizations)
+- [📚 Research Collections](#-research-collections)
+  - [🎭 German Gangstalking Documentation](#-german-gangstalking-documentation)
+  - [⛓️ Supply Chain Security](#️-supply-chain-security)
+  - [🛡️ Victim Support](#️-victim-support)
+- [🛠️ Tools & Resources](#️-tools--resources)
+  - [🔍 Investigation Tools](#-investigation-tools)
+  - [🔐 Security Tools](#-security-tools)
+  - [📸 Evidence Collection](#-evidence-collection)
+- [🛡️ Security Guidelines](#️-security-guidelines)
+  - [👤 Personal Security](#-personal-security)
+  - [⚡ Operational Security](#-operational-security)
+  - [💻 Digital Security](#-digital-security)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [📞 Contact](#-contact)
 
 ---
 
-## Introduction
+## 🎯 Introduction
 
 Started this collection after falling down some rabbit holes and realizing there are patterns most people miss. This isn't about promoting conspiracy theories - it's about documenting real research, tools, and people investigating coordinated operations, supply chain attacks, and targeted individual phenomena.
 
-**Warning:** Some of this content gets dark.
+> **⚠️ Warning:** Some of this content gets dark. Reader discretion advised.
 
 ---
 
-## Repository Structure
+## 🏗️ Repository Structure
 
 This repository follows GitHub Awesome list best practices:
 
 ### 📁 Required Files
-- **README.md** - This file (project overview and quick navigation)
-- **LICENSE** - MIT License for open source compliance
-- **CONTRIBUTING.md** - Contribution guidelines and templates
-- **code_of_conduct.md** - Community conduct guidelines
+- **📄 README.md** - This file (project overview and quick navigation)
+- **📜 LICENSE** - MIT License for open source compliance
+- **📝 CONTRIBUTING.md** - Contribution guidelines and templates
+- **📋 code_of_conduct.md** - Community conduct guidelines
 
 ### 📂 Core Content Files
-- **AGENTS.md** - Researcher profiles and investigator database
-- **RESEARCH.md** - Research findings and evidence collections
-- **TOOLS.md** - Investigation tools and software resources
-- **SECURITY.md** - Security guidelines and operational practices
+- **🕵️ AGENTS.md** - Researcher profiles and investigator database
+- **📚 RESEARCH.md** - Research findings and evidence collections
+- **🛠️ TOOLS.md** - Investigation tools and software resources
+- **🛡️ SECURITY.md** - Security guidelines and operational practices
 
-### 🏷️ GitHub Best Practices Implemented
+### ✅ GitHub Best Practices Implemented
 - ✅ Clear, descriptive README with table of contents
 - ✅ MIT License for maximum compatibility
 - ✅ Contribution guidelines with templates
@@ -49,145 +73,181 @@ This repository follows GitHub Awesome list best practices:
 - ✅ Issue and PR templates
 - ✅ Security documentation
 - ✅ Regular maintenance and updates
+- ✅ Professional badges and branding
+- ✅ Comprehensive issue templates
+- ✅ Detailed changelog
 
 ---
 
-## Key Investigators
+## 🕵️ Key Investigators
 
 This repository highlights work of several key researchers in conspiracy investigation space:
 
 ### 🇩🇪 German Research Network
-- **[kjedrdev](https://github.com/kjedrdev)** - Security researcher at LfV Niedersachsen-N.R.W.
-- **[hartmannlauterbach](https://github.com/hartmannlauterbach)** - Right-conservative activist & former teacher
-- **[mrbloxx](https://github.com/mrbloxx)** - IT Security Researcher
-- **[conspiracy-uncoverage](https://github.com/conspiracy-uncoverage)** - N.W.O. Group Inc. research collective
+
+| Investigator | Focus | GitHub |
+|---|---|---|
+| **[kjedrdev](https://github.com/kjedrdev)** | Security researcher at LfV Niedersachsen-N.R.W. | [![GitHub stars](https://img.shields.io/github/stars/kjedrdev?style=social)](https://github.com/kjedrdev) |
+| **[hartmannlauterbach](https://github.com/hartmannlauterbach)** | Right-conservative activist & former teacher | [![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach?style=social)](https://github.com/hartmannlauterbach) |
+| **[mrbloxx](https://github.com/mrbloxx)** | IT Security Researcher | [![GitHub stars](https://img.shields.io/github/stars/mrbloxx?style=social)](https://github.com/mrbloxx) |
+| **[conspiracy-uncoverage](https://github.com/conspiracy-uncoverage)** | N.W.O. Group Inc. research collective | [![GitHub stars](https://img.shields.io/github/stars/conspiracy-uncoverage?style=social)](https://github.com/conspiracy-uncoverage) |
 
 ### 🌍 International Supply Chain Security Experts
-- **[lyvd](https://github.com/lyvd)** - Open-source supply chain security researcher (Vietnam)
-- **[sumanrox](https://github.com/sumanrox)** - Offensive security researcher (India)
-- **[bryancowan](https://github.com/bryancowan)** - Supply chain security product specialist (USA)
 
-### 🏛 CCC Congress Researchers
-- **[JohanDegraeve](https://github.com/JohanDegraeve)** - Creator of xDrip4iOS, presented at 39C3 on medical device hacking
-- **[Erin Robinson](https://erinrobinson.xyz)** - Computational artist, presented XXX Machina at 39C3 on AI ethics
-- **[rugk](https://github.com/rugk)** - German hacker collective, privacy tools and decentralized web
-- **[WaxOS Team](https://waxos.net)** - Distributed OS developers, presented WaxOS at 39C3
-- **[Dragon Sector](https://www.youtube.com/watch?v=37c3-12142)** - Polish security team that exposed Newag train DRM at 37C3, facing legal battles
+| Investigator | Location | Focus | GitHub |
+|---|---|---|---|
+| **[lyvd](https://github.com/lyvd)** | Vietnam | Open-source supply chain security | [![GitHub stars](https://img.shields.io/github/stars/lyvd?style=social)](https://github.com/lyvd) |
+| **[sumanrox](https://github.com/sumanrox)** | India | Offensive security research | [![GitHub stars](https://img.shields.io/github/stars/sumanrox?style=social)](https://github.com/sumanrox) |
+| **[bryancowan](https://github.com/bryancowan)** | USA | Supply chain security products | [![GitHub stars](https://img.shields.io/github/stars/bryancowan?style=social)](https://github.com/bryancowan) |
+
+### 🏛️ CCC Congress Researchers
+
+| Researcher | Presentation | Focus | Repository |
+|---|---|---|---|
+| **[JohanDegraeve](https://github.com/JohanDegraeve)** | 39C3 Medical Device Hacking | xDrip4iOS, diabetes tech | [![GitHub stars](https://img.shields.io/github/stars/JohanDegraeve/xdripswift?style=social)](https://github.com/JohanDegraeve/xdripswift) |
+| **[Erin Robinson](https://erinrobinson.xyz)** | 39C3 AI Ethics | XXX Machina, AI identity | [![Website](https://img.shields.io/badge/website-erinrobinson.xyz-blue)](https://erinrobinson.xyz) |
+| **[rugk](https://github.com/rugk)** | Multiple CCC talks | Privacy tools, decentralized web | [![GitHub stars](https://img.shields.io/github/stars/rugk?style=social)](https://github.com/rugk) |
+| **[WaxOS Team](https://waxos.net)** | 39C3 Distributed OS | Decentralized operating systems | [![Website](https://img.shields.io/badge/website-waxos.net-blue)](https://waxos.net) |
+| **[Dragon Sector](https://www.youtube.com/watch?v=37c3-12142)** | 37C3 Train DRM | Hardware reverse engineering | [![YouTube](https://img.shields.io/badge/YouTube-Dragon%20Sector-red)](https://www.youtube.com/watch?v=37c3-12142) |
 
 ### 🎓 Academic & Research Organizations
-- **[OTIResearch](https://github.com/OTIResearch)** - Objective Targeted Individuals Research
+
+| Organization | Focus | Repository |
+|---|---|---|
+| **[OTIResearch](https://github.com/OTIResearch)** | Targeted Individuals Research | [![GitHub stars](https://img.shields.io/github/stars/OTIResearch?style=social)](https://github.com/OTIResearch) |
 
 ---
 
-## Research Collections
+## 📚 Research Collections
 
-### German Gangstalking Documentation
+### 🎭 German Gangstalking Documentation
 
-- **[hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU](https://github.com/hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU)** - Claims to document "cybermobbing kartell" in German music industry.
+| Repository | Description | Stars |
+|---|---|---|
+| **[hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU](https://github.com/hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU)** | Documents "cybermobbing kartell" in German music industry | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU?style=social) |
+| **[sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene](https://github.com/sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene)** | Investigation into German rap scene connections | ![GitHub stars](https://img.shields.io/github/stars/sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene?style=social) |
 
-- **[sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene](https://github.com/sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene)** - Investigation into German rap scene.
+### ⛓️ Supply Chain Security
 
-### Supply Chain Security
+| Resource | Type | Description |
+|---|---|---|
+| **[Dragon Sector - Polish Train DRM Research](https://www.youtube.com/watch?v=37c3-12142)** | Video | Hardware reverse engineering exposing anti-repair mechanisms |
+| **[lyvd/bandit4mal](https://github.com/lyvd/bandit4mal)** | Tool | Fork of Bandit tool with malicious code detection |
+| **[sumanrox/rschunter](https://github.com/sumanrox/rschunter)** | Tool | Mass hunting tool for CVEs |
 
-- **[Dragon Sector - Polish Train DRM Research](https://www.youtube.com/watch?v=37c3-12142)** - Hardware reverse engineering exposing anti-repair mechanisms
-- **[lyvd/bandit4mal](https://github.com/lyvd/bandit4mal)** - Fork of Bandit tool with malicious code detection.
-- **[sumanrox/rschunter](https://github.com/sumanrox/rschunter)** - Mass hunting tool for CVEs.
+### 🛡️ Victim Support
 
-### Victim Support
-
-- **[mrbloxx/Lil_Keen](https://github.com/mrbloxx/Lil_Keen)** - Support project for cybermobbing victims.
-- **[tabakomk/Targeted-Individuals](https://github.com/tabakomk/Targeted-Individuals)** - JavaScript tools for TI research.
-
----
-
-## Tools & Resources
-
-### Investigation Tools
-
-- **[SpiderFoot](https://github.com/smicallef/spiderfoot)** - OSINT gathering tool
-- **[Maltego](https://www.maltego.com/)** - Visual link analysis
-- **[Wireshark](https://www.wireshark.org/)** - Network protocol analyzer
-
-### Security Tools
-
-- **[Signal](https://signal.org/)** - Encrypted messaging
-- **[ProtonMail](https://proton.me/)** - Encrypted email
-- **[Tor Browser](https://www.torproject.org/)** - Anonymous browsing
-
-### Evidence Collection
-
-- **[OBS Studio](https://obsproject.com/)** - Screen recording
-- **[HashMyFiles](https://github.com/FiloSottile/HashMyFiles)** - File hashing
+| Repository | Purpose | Stars |
+|---|---|---|
+| **[mrbloxx/Lil_Keen](https://github.com/mrbloxx/Lil_Keen)** | Support project for cybermobbing victims | ![GitHub stars](https://img.shields.io/github/stars/mrbloxx/Lil_Keen?style=social) |
+| **[tabakomk/Targeted-Individuals](https://github.com/tabakomk/Targeted-Individuals)** | JavaScript tools for TI research | ![GitHub stars](https://img.shields.io/github/stars/tabakomk/Targeted-Individuals?style=social) |
 
 ---
 
-## Security Guidelines
+## 🛠️ Tools & Resources
 
-### Personal Security
+### 🔍 Investigation Tools
 
-- Use encrypted communications (Signal/ProtonMail)
-- Separate research accounts from personal accounts
-- Use VPN/Tor for sensitive research
-- Keep backups in multiple locations
+| Tool | Type | Description | Link |
+|---|---|---|---|
+| **SpiderFoot** | OSINT | Open-source intelligence gathering tool | [![GitHub stars](https://img.shields.io/github/stars/smicallef/spiderfoot?style=social)](https://github.com/smicallef/spiderfoot) |
+| **Maltego** | Analysis | Visual link analysis platform | [![Website](https://img.shields.io/badge/website-maltego.com-blue)](https://www.maltego.com/) |
+| **Wireshark** | Network | Network protocol analyzer | [![Website](https://img.shields.io/badge/website-wireshark.org-blue)](https://www.wireshark.org/) |
 
-### Operational Security
+### 🔐 Security Tools
 
-- Don't use real names in documentation
-- Verify sources before sharing
-- Understand legal implications in your jurisdiction
-- Have emergency protocols in place
+| Tool | Purpose | Platform |
+|---|---|---|
+| **Signal** | Encrypted messaging | iOS, Android, Desktop |
+| **ProtonMail** | Encrypted email | Web, Mobile |
+| **Tor Browser** | Anonymous browsing | Cross-platform |
 
-### Digital Security
+### 📸 Evidence Collection
 
-- Keep software updated
-- Use 2FA everywhere
-- Encrypt sensitive data
-- Regular security audits
+| Tool | Use Case | Link |
+|---|---|---|
+| **OBS Studio** | Screen recording | [![Website](https://img.shields.io/badge/website-obsproject.com-blue)](https://obsproject.com/) |
+| **HashMyFiles** | File hashing | [![GitHub stars](https://img.shields.io/github/stars/FiloSottile/HashMyFiles?style=social)](https://github.com/FiloSottile/HashMyFiles) |
 
 ---
 
-## Contributing
+## 🛡️ Security Guidelines
+
+### 👤 Personal Security
+
+- 🔒 Use encrypted communications (Signal/ProtonMail)
+- 👥 Separate research accounts from personal accounts
+- 🌐 Use VPN/Tor for sensitive research
+- 💾 Keep backups in multiple locations
+
+### ⚡ Operational Security
+
+- 🎭 Don't use real names in documentation
+- ✅ Verify sources before sharing
+- ⚖️ Understand legal implications in your jurisdiction
+- 🚨 Have emergency protocols in place
+
+### 💻 Digital Security
+
+- 🔄 Keep software updated
+- 🔐 Use 2FA everywhere
+- 🔒 Encrypt sensitive data
+- 🔍 Regular security audits
+
+---
+
+## 🤝 Contributing
 
 Found something useful? Have corrections?
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-research`)
-3. Add your findings with proper documentation
-4. Test your changes
-5. Submit a pull request with detailed description
-6. Follow the contribution template in CONTRIBUTING.md
+### 🚀 Quick Start
+1. **Fork** this repository
+2. **Create** a feature branch (`git checkout -b feature/amazing-research`)
+3. **Add** your findings with proper documentation
+4. **Test** your changes
+5. **Submit** a pull request with detailed description
+6. **Follow** the contribution template in [CONTRIBUTING.md](CONTRIBUTING.md)
 
-### What We're Looking For
+### ✨ What We're Looking For
 
-- Verified tools and resources
-- Well-researched cases with evidence
-- Academic papers and conference proceedings
-- Corrections to existing information
-- New investigator profiles with GitHub repositories
+- ✅ Verified tools and resources
+- 📚 Well-researched cases with evidence
+- 🎓 Academic papers and conference proceedings
+- 🔄 Corrections to existing information
+- 👤 New investigator profiles with GitHub repositories
 
-### What We Don't Want
+### 🚫 What We Don't Want
 
-- Unverified conspiracy theories
-- Personal attacks on individuals
-- Illegal activity instructions
-- Commercial spam
-- Political propaganda
+- ❌ Unverified conspiracy theories
+- 👊 Personal attacks on individuals
+- 🚫 Illegal activity instructions
+- 💰 Commercial spam
+- 🏛️ Political propaganda
 
 ---
 
-## License
+## 📄 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 MIT License - do whatever you want with this collection.
 
 ---
 
-## Contact
+## 📞 Contact
 
 For questions, collaborations, or to share sensitive information:
 
-- Create an issue (for public stuff)
-- Use encrypted email for sensitive matters
+- 🐛 **Create an issue** (for public stuff)
+- 🔒 **Use encrypted email** for sensitive matters
 
 ---
 
-*Remember: The goal is finding truth, not confirming beliefs. Stay skeptical, stay safe, stay ethical.*
+<div align="center">
+
+> *"The goal is finding truth, not confirming beliefs. Stay skeptical, stay safe, stay ethical."*
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+</div>
