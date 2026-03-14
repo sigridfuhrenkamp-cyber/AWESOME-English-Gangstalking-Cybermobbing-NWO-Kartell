@@ -17,6 +17,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added Security Tool Developers section to AGENTS.md
 - Integrated star count badges for all repositories
 - Added EEG-based detection tools for TI research
+- New CCC Congress researchers: JohanDegraeve, Erin Robinson, rugk, Dragon Sector
+- Additional supply chain security investigators: ossillate-inc, binarly-io, SAP, microsoft, visma-prodsec, interlynk-io
 
 ### 🔄 Updated
 - Expanded README.md with 15+ new GitHub repositories

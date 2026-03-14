@@ -46,6 +46,10 @@ Research collective in Köln. Does systematic research on gangstalking and cyber
 | **[sheeki03](https://github.com/sheeki03)** | Supply chain security, homograph attacks | [![GitHub stars](https://img.shields.io/github/stars/sheeki03?style=social)](https://github.com/sheeki03) |
 | **[step-security](https://github.com/step-security)** | GitHub Actions security | [![GitHub stars](https://img.shields.io/github/stars/step-security?style=social)](https://github.com/step-security) |
 | **[lirantal](https://github.com/lirantal)** | npm security best practices | [![GitHub stars](https://img.shields.io/github/stars/lirantal?style=social)](https://github.com/lirantal) |
+| **[ossillate-inc](https://github.com/ossillate-inc)** | Malicious dependency detection (Packj) | [![GitHub stars](https://img.shields.io/github/stars/ossillate-inc?style=social)](https://github.com/ossillate-inc) |
+| **[binarly-io](https://github.com/binarly-io)** | Supply chain attack research | [![GitHub stars](https://img.shields.io/github/stars/binarly-io?style=social)](https://github.com/binarly-io) |
+| **[visma-prodsec](https://github.com/visma-prodsec)** | Dependency confusion detection | [![GitHub stars](https://img.shields.io/github/stars/visma-prodsec?style=social)](https://github.com/visma-prodsec) |
+| **[interlynk-io](https://github.com/interlynk-io)** | SBOM quality assessment | [![GitHub stars](https://img.shields.io/github/stars/interlynk-io?style=social)](https://github.com/interlynk-io) |
 
 ### OTIResearch
 Academic approach to Targeted Individuals phenomenon. Evidence-based research methodology.

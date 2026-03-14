@@ -88,6 +88,12 @@ This repository highlights work of several key researchers in conspiracy investi
 | **[lyvd](https://github.com/lyvd)** | Vietnam | Open-source supply chain security | [![GitHub stars](https://img.shields.io/github/stars/lyvd?style=social)](https://github.com/lyvd) |
 | **[sumanrox](https://github.com/sumanrox)** | India | Offensive security research | [![GitHub stars](https://img.shields.io/github/stars/sumanrox?style=social)](https://github.com/sumanrox) |
 | **[bryancowan](https://github.com/bryancowan)** | USA | Supply chain security products | [![GitHub stars](https://img.shields.io/github/stars/bryancowan?style=social)](https://github.com/bryancowan) |
+| **[ossillate-inc](https://github.com/ossillate-inc)** | USA | Malicious dependency detection | [![GitHub stars](https://img.shields.io/github/stars/ossillate-inc?style=social)](https://github.com/ossillate-inc) |
+| **[binarly-io](https://github.com/binarly-io)** | International | Supply chain attack research | [![GitHub stars](https://img.shields.io/github/stars/binarly-io?style=social)](https://github.com/binarly-io) |
+| **[SAP](https://github.com/SAP)** | Germany | Software supply chain risk taxonomy | [![GitHub stars](https://img.shields.io/github/stars/SAP?style=social)](https://github.com/SAP) |
+| **[microsoft](https://github.com/microsoft)** | USA | Enterprise SBOM generation | [![GitHub stars](https://img.shields.io/github/stars/microsoft?style=social)](https://github.com/microsoft) |
+| **[visma-prodsec](https://github.com/visma-prodsec)** | Norway | Dependency confusion detection | [![GitHub stars](https://img.shields.io/github/stars/visma-prodsec?style=social)](https://github.com/visma-prodsec) |
+| **[interlynk-io](https://github.com/interlynk-io)** | International | SBOM quality assessment | [![GitHub stars](https://img.shields.io/github/stars/interlynk-io?style=social)](https://github.com/interlynk-io) |
 
 ### 🏛️ CCC Congress Researchers
 
