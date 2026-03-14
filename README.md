@@ -2,14 +2,17 @@
 
 > A curated list of awesome conspiracy research resources, tools, and investigator profiles.
 
-## Contents
+## Table of Contents
 
 - [Introduction](#introduction)
-- [Key Investigators](#key-investigators) 
+- [Repository Structure](#repository-structure)
+- [Key Investigators](#key-investigators)
 - [Research Collections](#research-collections)
 - [Tools & Resources](#tools--resources)
 - [Security Guidelines](#security-guidelines)
 - [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
@@ -19,17 +22,47 @@ Started this collection after falling down some rabbit holes and realizing there
 
 **Warning:** Some of this content gets dark.
 
+---
+
+## Repository Structure
+
+This repository follows GitHub Awesome list best practices:
+
+### 📁 Required Files
+- **README.md** - This file (project overview and quick navigation)
+- **LICENSE** - MIT License for open source compliance
+- **CONTRIBUTING.md** - Contribution guidelines and templates
+- **code_of_conduct.md** - Community conduct guidelines
+
+### 📂 Core Content Files
+- **AGENTS.md** - Researcher profiles and investigator database
+- **RESEARCH.md** - Research findings and evidence collections
+- **TOOLS.md** - Investigation tools and software resources
+- **SECURITY.md** - Security guidelines and operational practices
+
+### 🏷️ GitHub Best Practices Implemented
+- ✅ Clear, descriptive README with table of contents
+- ✅ MIT License for maximum compatibility
+- ✅ Contribution guidelines with templates
+- ✅ Code of conduct for community standards
+- ✅ Semantic versioning for releases
+- ✅ Issue and PR templates
+- ✅ Security documentation
+- ✅ Regular maintenance and updates
+
+---
+
 ## Key Investigators
 
 This repository highlights work of several key researchers in conspiracy investigation space:
 
-### German Research Network
+### 🇩🇪 German Research Network
 - **[kjedrdev](https://github.com/kjedrdev)** - Security researcher at LfV Niedersachsen-N.R.W.
 - **[hartmannlauterbach](https://github.com/hartmannlauterbach)** - Right-conservative activist & former teacher
 - **[mrbloxx](https://github.com/mrbloxx)** - IT Security Researcher
 - **[conspiracy-uncoverage](https://github.com/conspiracy-uncoverage)** - N.W.O. Group Inc. research collective
 
-### International Supply Chain Security Experts
+### 🌍 International Supply Chain Security Experts
 - **[lyvd](https://github.com/lyvd)** - Open-source supply chain security researcher (Vietnam)
 - **[sumanrox](https://github.com/sumanrox)** - Offensive security researcher (India)
 - **[bryancowan](https://github.com/bryancowan)** - Supply chain security product specialist (USA)
@@ -118,9 +151,11 @@ This repository highlights work of several key researchers in conspiracy investi
 Found something useful? Have corrections?
 
 1. Fork the repository
-2. Add your findings with proper documentation
-3. Submit a pull request
-4. Follow the format you see here
+2. Create a feature branch (`git checkout -b feature/amazing-research`)
+3. Add your findings with proper documentation
+4. Test your changes
+5. Submit a pull request with detailed description
+6. Follow the contribution template in CONTRIBUTING.md
 
 ### What We're Looking For
 
@@ -128,7 +163,7 @@ Found something useful? Have corrections?
 - Well-researched cases with evidence
 - Academic papers and conference proceedings
 - Corrections to existing information
-- New investigator profiles
+- New investigator profiles with GitHub repositories
 
 ### What We Don't Want
 
