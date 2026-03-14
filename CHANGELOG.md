@@ -1,90 +1,88 @@
-# 📚 Changelog
+# 📝 Changelog
 
-All notable changes to the Awesome Conspiracy Links repository will be documented in this file.
+All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+---
+
 ## [Unreleased]
 
-### Added
-- 🏗️ Complete repository restructuring with GitHub Awesome best practices
-- 📋 Professional README with badges, tables, and improved navigation
-- 🕵️ Enhanced AGENTS.md with detailed CCC Congress researcher profiles
-- 🛠️ Comprehensive tools and resources categorization
-- 📋 GitHub issue and PR templates
-- 📄 CHANGELOG.md for tracking changes
+### 🆕 Added
+- Comprehensive GitHub repository research and integration
+- New Targeted Individuals research section with 6 repositories
+- Enhanced Supply Chain Security section with 7 major tools/frameworks
+- Updated German Gangstalking Documentation with 4 additional repositories
+- Added Security Tool Developers section to AGENTS.md
+- Integrated star count badges for all repositories
+- Added EEG-based detection tools for TI research
 
-### Changed
-- 🔄 Updated repository structure to follow Awesome standards
-- 📝 Improved content organization and categorization
-- ✨ Enhanced visual presentation with badges and tables
-
-### Fixed
-- 🐛 Corrected broken links and formatting issues
-- 🔧 Fixed repository structure inconsistencies
+### 🔄 Updated
+- Expanded README.md with 15+ new GitHub repositories
+- Enhanced AGENTS.md with international researchers
+- Updated Tools & Resources section with latest security tools
+- Improved table formatting and consistency
 
 ---
 
 ## [1.0.0] - 2026-03-14
 
-### Added
-- 🎯 Initial repository creation
-- 🕵️ Core investigator profiles (German network, international researchers)
-- 📚 Research collections documentation
-- 🛠️ Essential tools and resources
-- 🛡️ Security guidelines and best practices
-- 🏛️ CCC Congress researcher profiles
-- ⛓️ Supply chain security resources
-
-### Features
-- 📄 MIT License for open source compliance
-- 📝 Contribution guidelines
-- 📋 Code of conduct
-- 🔒 Security documentation
+### ✨ Initial Release
+- Complete Awesome repository structure implementation
+- GitHub Awesome best practices compliance
+- Comprehensive documentation suite
+- Issue and PR templates
+- Security policy and code of conduct
+- Initial investigator profiles and research collections
 
 ---
-
-## 🏷️ Version Categories
-
-- **Major (X.0.0)**: Significant restructuring, new major categories, policy changes
-- **Minor (X.Y.0)**: New investigators, major research additions, tool updates
-- **Patch (X.Y.Z)**: Bug fixes, link updates, minor content changes
 
 ## 📊 Statistics
 
-- **Total Investigators**: 15+
-- **Countries Represented**: 8+
-- **Tools & Resources**: 25+
-- **Research Collections**: 10+
-- **Security Guidelines**: Comprehensive coverage
+### 📈 Repository Growth
+- **Total Repositories Added:** 25+
+- **New Investigators Documented:** 8
+- **Security Tools Integrated:** 7
+- **TI Research Resources:** 6
+- **German Documentation Repos:** 6
+
+### 🌍 Geographic Coverage
+- **Germany:** 4 primary investigators
+- **International:** 8+ researchers across 6 countries
+- **Academic:** 2 research organizations
+
+### 🔧 Technology Categories
+- **Supply Chain Security:** 7 repositories
+- **Targeted Individuals:** 6 repositories  
+- **EEG/BCI Research:** 3 repositories
+- **Security Tools:** 5 repositories
 
 ---
 
-## 🔮 Roadmap
+## 🛣️ Roadmap
 
-### Upcoming Features
-- 🤖 AI-powered research assistant integration
-- 📊 Interactive investigator network visualization
-- 🔍 Advanced search and filtering capabilities
-- 📱 Mobile-responsive documentation
-- 🌍 Multi-language support
+### 🎯 Upcoming Features
+- [ ] Automated repository star count updates
+- [ ] Categorized search functionality
+- [ ] Research collaboration platform
+- [ ] Evidence verification system
+- [ ] Multi-language documentation
 
-### Community Goals
-- 👥 Expand international researcher network
-- 📚 Increase academic paper coverage
-- 🛠️ Curate more specialized tools
-- 🔗 Build stronger inter-repository connections
+### 📋 Priority Areas
+- [ ] **High:** Additional TI research tools
+- [ ] **Medium:** Academic paper integration
+- [ ] **Low:** Mobile app recommendations
 
 ---
 
-## 📞 Contributing to Changelog
+## 📞 Contact
 
-When contributing to this repository:
-1. Document changes in the appropriate section
-2. Follow semantic versioning guidelines
-3. Include relevant emojis for visual clarity
-4. Update statistics when applicable
-5. Reference related issues or PRs
+For changelog-related questions or suggestions:
+- **Issues:** [Create an issue](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/issues)
+- **Discussions:** [Start a discussion](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/discussions)
+- **Email:** nwofrenemies@proton.me
 
-For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+---
+
+*Last updated: 2026-03-14*

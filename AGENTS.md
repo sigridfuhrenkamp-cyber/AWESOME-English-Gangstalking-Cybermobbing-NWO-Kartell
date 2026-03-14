@@ -22,16 +22,30 @@ Research collective in Köln. Does systematic research on gangstalking and cyber
 
 ## International Researchers
 
-### lyvd (Vu Duc Ly)
-Vietnamese researcher, founder of Packguard.dev. Focuses on malicious package detection. Published at ICSE 2023.
+### 🌍 Supply Chain Security Experts
 
-### sumanrox (Suman Roy)
-Indian security researcher. Does CVE hunting and exploit development. Former Wipro/LoginSoft.
+| Investigator | Location | Focus | GitHub |
+|---|---|---|---|
+| **[lyvd](https://github.com/lyvd)** | Vietnam | Open-source supply chain security | [![GitHub stars](https://img.shields.io/github/stars/lyvd?style=social)](https://github.com/lyvd) |
+| **[sumanrox](https://github.com/sumanrox)** | India | Offensive security research | [![GitHub stars](https://img.shields.io/github/stars/sumanrox?style=social)](https://github.com/sumanrox) |
+| **[bryancowan](https://github.com/bryancowan)** | USA | Supply chain security products | [![GitHub stars](https://img.shields.io/github/stars/bryancowan?style=social)](https://github.com/bryancowan) |
 
-### bryancowan (Bryan Cowan)
-Works at Fortress Information Security. Focuses on SBOMs and vulnerability exploitability.
+### 🎯 Targeted Individuals Researchers
 
-## Academic
+| Investigator | Location | Focus | GitHub |
+|---|---|---|---|
+| **[f-dx](https://github.com/f-dx)** | International | TI resource compilation | [![GitHub stars](https://img.shields.io/github/stars/f-dx?style=social)](https://github.com/f-dx) |
+| **[michaloblastni](https://github.com/michaloblastni)** | International | EEG-based TI detection | [![GitHub stars](https://img.shields.io/github/stars/michaloblastni?style=social)](https://github.com/michaloblastni) |
+| **[wakaztahir](https://github.com/wakaztahir)** | International | Personal TI documentation | [![GitHub stars](https://img.shields.io/github/stars/wakaztahir?style=social)](https://github.com/wakaztahir) |
+| **[tabakomk](https://github.com/tabakomk)** | International | JavaScript TI tools | [![GitHub stars](https://img.shields.io/github/stars/tabakomk?style=social)](https://github.com/tabakomk) |
+
+### 🔒 Security Tool Developers
+
+| Investigator | Focus | GitHub |
+|---|---|---|
+| **[sheeki03](https://github.com/sheeki03)** | Supply chain security, homograph attacks | [![GitHub stars](https://img.shields.io/github/stars/sheeki03?style=social)](https://github.com/sheeki03) |
+| **[step-security](https://github.com/step-security)** | GitHub Actions security | [![GitHub stars](https://img.shields.io/github/stars/step-security?style=social)](https://github.com/step-security) |
+| **[lirantal](https://github.com/lirantal)** | npm security best practices | [![GitHub stars](https://img.shields.io/github/stars/lirantal?style=social)](https://github.com/lirantal) |
 
 ### OTIResearch
 Academic approach to Targeted Individuals phenomenon. Evidence-based research methodology.

@@ -14,20 +14,20 @@ We take security seriously. If you discover a security vulnerability, please rep
 ### 📧 How to Report
 
 **Primary Contact:** Use encrypted email for security matters
-- **Email:** Create an issue with the "security" label for encrypted contact instructions
+- **Email:** Create an issue with "security" label for encrypted contact instructions
 - **PGP Key:** Available upon request via issue
 
 ### 🔒 What to Include
 
 1. **Vulnerability Type**
-   - 🕵️ Information disclosure
-   - 🔐 Authentication bypass
-   - 💻 Code execution
-   - 🌐 Cross-site scripting
-   - 📊 Other (specify)
+   - Information disclosure
+   - Authentication bypass
+   - Code execution
+   - Cross-site scripting
+   - Other (specify)
 
 2. **Impact Assessment**
-   - 🔴 Critical - System compromise, data breach
+   - Critical - System compromise, data breach
    - 🟠 High - Significant data exposure
    - 🟡 Medium - Limited impact, partial access
    - 🟢 Low - Minimal security impact

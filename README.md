@@ -50,32 +50,21 @@ Started this collection after falling down some rabbit holes and realizing there
 
 ## 🏗️ Repository Structure
 
-This repository follows GitHub Awesome list best practices:
+This repository follows GitHub Awesome list standards with organized documentation and resources.
 
-### 📁 Required Files
-- **📄 README.md** - This file (project overview and quick navigation)
-- **📜 LICENSE** - MIT License for open source compliance
-- **📝 CONTRIBUTING.md** - Contribution guidelines and templates
-- **📋 code_of_conduct.md** - Community conduct guidelines
+### 📁 Core Files
+- **README.md** - Main project overview and navigation
+- **AGENTS.md** - Researcher profiles and investigator database  
+- **RESEARCH.md** - Research findings and evidence collections
+- **TOOLS.md** - Investigation tools and software resources
+- **SECURITY.md** - Security guidelines and operational practices
 
-### 📂 Core Content Files
-- **🕵️ AGENTS.md** - Researcher profiles and investigator database
-- **📚 RESEARCH.md** - Research findings and evidence collections
-- **🛠️ TOOLS.md** - Investigation tools and software resources
-- **🛡️ SECURITY.md** - Security guidelines and operational practices
-
-### ✅ GitHub Best Practices Implemented
-- ✅ Clear, descriptive README with table of contents
-- ✅ MIT License for maximum compatibility
-- ✅ Contribution guidelines with templates
-- ✅ Code of conduct for community standards
-- ✅ Semantic versioning for releases
-- ✅ Issue and PR templates
-- ✅ Security documentation
-- ✅ Regular maintenance and updates
-- ✅ Professional badges and branding
-- ✅ Comprehensive issue templates
-- ✅ Detailed changelog
+### ✅ GitHub Standards
+- Professional documentation with clear structure
+- Comprehensive contribution guidelines
+- Issue and pull request templates
+- Security policy and code of conduct
+- Regular updates and maintenance
 
 ---
 
@@ -126,21 +115,41 @@ This repository highlights work of several key researchers in conspiracy investi
 |---|---|---|
 | **[hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU](https://github.com/hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU)** | Documents "cybermobbing kartell" in German music industry | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU?style=social) |
 | **[sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene](https://github.com/sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene)** | Investigation into German rap scene connections | ![GitHub stars](https://img.shields.io/github/stars/sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene?style=social) |
+| **[mrbloxx/NWO-Cybermobbing-Gangstalking-Game-Over-GRU](https://github.com/mrbloxx/NWO-Cybermobbing-Gangstalking-Game-Over-GRU)** | Fork of hartmannlauterbach's work with additional evidence | ![GitHub stars](https://img.shields.io/github/stars/mrbloxx/NWO-Cybermobbing-Gangstalking-Game-Over-GRU?style=social) |
+| **[hartmannlauterbach/666](https://github.com/hartmannlauterbach/666)** | Claims brother from kjedrdev sent 666 followers | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/666?style=social) |
+| **[hartmannlauterbach/999-NWO-Cybermobbing-Kartell-Gangstalking-Cybergrooming-Background](https://github.com/hartmannlauterbach/999-NWO-Cybermobbing-Kartell-Gangstalking-Cybergrooming-Background)** | Background documentation on cybermobbing operations | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/999-NWO-Cybermobbing-Kartell-Gangstalking-Cybergrooming-Background?style=social) |
+| **[hartmannlauterbach/Leakz-Platten-Wer-kann-sie-entgegennehmen-und-verwahren-LUKS](https://github.com/hartmannlauterbach/Leakz-Platten-Wer-kann-sie-entgegennehmen-und-verwahren-LUKS)** | Claims evidence for 666 million EUR against NWO operations | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/Leakz-Platten-Wer-kann-sie-entgegennehmen-und-verwahren-LUKS?style=social) |
+
+### 🎯 Targeted Individuals Research
+
+| Repository | Description | Stars |
+|---|---|---|
+| **[f-dx/Awesome-Targeted-Individuals](https://github.com/f-dx/Awesome-Targeted-Individuals)** | Comprehensive TI resource collection with detailed research methods | ![GitHub stars](https://img.shields.io/github/stars/f-dx/Awesome-Targeted-Individuals?style=social) |
+| **[michaloblastni/insultdetector](https://github.com/michaloblastni/insultdetector)** | EEG-based insult detection for targeted individuals using Muse2 BCI | ![GitHub stars](https://img.shields.io/github/stars/michaloblastni/insultdetector?style=social) |
+| **[michaloblastni/targeted-individual-simulator](https://github.com/michaloblastni/targeted-individual-simulator)** | BCI simulator for training TI detection methods | ![GitHub stars](https://img.shields.io/github/stars/michaloblastni/targeted-individual-simulator?style=social) |
+| **[michaloblastni/harness](https://github.com/michaloblastni/harness)** | Database platform for TI victims to connect and share evidence | ![GitHub stars](https://img.shields.io/github/stars/michaloblastni/harness?style=social) |
+| **[wakaztahir/targeted](https://github.com/wakaztahir/targeted)** | Personal TI experience documentation and resources | ![GitHub stars](https://img.shields.io/github/stars/wakaztahir/targeted?style=social) |
+| **[tabakomk/Targeted-Individuals](https://github.com/tabakomk/Targeted-Individuals)** | JavaScript tools for TI research and analysis | ![GitHub stars](https://img.shields.io/github/stars/tabakomk/Targeted-Individuals?style=social) |
 
 ### ⛓️ Supply Chain Security
 
-| Resource | Type | Description |
-|---|---|---|
-| **[Dragon Sector - Polish Train DRM Research](https://www.youtube.com/watch?v=37c3-12142)** | Video | Hardware reverse engineering exposing anti-repair mechanisms |
-| **[lyvd/bandit4mal](https://github.com/lyvd/bandit4mal)** | Tool | Fork of Bandit tool with malicious code detection |
-| **[sumanrox/rschunter](https://github.com/sumanrox/rschunter)** | Tool | Mass hunting tool for CVEs |
+| Resource | Type | Description | Stars |
+|---|---|---|---|
+| **[slsa-framework/slsa](https://github.com/slsa-framework/slsa)** | Framework | Supply-chain Levels for Software Artifacts (SLSA) security framework | ![GitHub stars](https://img.shields.io/github/stars/slsa-framework/slsa?style=social) |
+| **[sheeki03/tirith](https://github.com/sheeki03/tirith)** | CLI Tool | Terminal security guard against homograph attacks, ANSI injection, and pipe-to-shell attacks | ![GitHub stars](https://img.shields.io/github/stars/sheeki03/tirith?style=social) |
+| **[step-security/secure-repo](https://github.com/step-security/secure-repo)** | GitHub Action | Orchestrate GitHub Actions security for supply chain protection | ![GitHub stars](https://img.shields.io/github/stars/step-security/secure-repo?style=social) |
+| **[lirantal/npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices)** | Guide | Collection of npm package manager Security Best Practices | ![GitHub stars](https://img.shields.io/github/stars/lirantal/npm-security-best-practices?style=social) |
+| **[Dragon Sector - Polish Train DRM Research](https://www.youtube.com/watch?v=37c3-12142)** | Video | Hardware reverse engineering exposing anti-repair mechanisms | - |
+| **[lyvd/bandit4mal](https://github.com/lyvd/bandit4mal)** | Tool | Fork of Bandit tool with malicious code detection | ![GitHub stars](https://img.shields.io/github/stars/lyvd/bandit4mal?style=social) |
+| **[sumanrox/rschunter](https://github.com/sumanrox/rschunter)** | Tool | Mass hunting tool for CVEs | ![GitHub stars](https://img.shields.io/github/stars/sumanrox/rschunter?style=social) |
 
 ### 🛡️ Victim Support
 
 | Repository | Purpose | Stars |
 |---|---|---|
 | **[mrbloxx/Lil_Keen](https://github.com/mrbloxx/Lil_Keen)** | Support project for cybermobbing victims | ![GitHub stars](https://img.shields.io/github/stars/mrbloxx/Lil_Keen?style=social) |
-| **[tabakomk/Targeted-Individuals](https://github.com/tabakomk/Targeted-Individuals)** | JavaScript tools for TI research | ![GitHub stars](https://img.shields.io/github/stars/tabakomk/Targeted-Individuals?style=social) |
+| **[tabakomk/Targeted-Individuals](https://github.com/tabakomk/Targeted-Individuals)** | JavaScript tools for TI research and analysis | ![GitHub stars](https://img.shields.io/github/stars/tabakomk/Targeted-Individuals?style=social) |
+| **[michaloblastni/harness](https://github.com/michaloblastni/harness)** | Database platform for TI victims to connect and share evidence | ![GitHub stars](https://img.shields.io/github/stars/michaloblastni/harness?style=social) |
 
 ---
 
@@ -153,6 +162,7 @@ This repository highlights work of several key researchers in conspiracy investi
 | **SpiderFoot** | OSINT | Open-source intelligence gathering tool | [![GitHub stars](https://img.shields.io/github/stars/smicallef/spiderfoot?style=social)](https://github.com/smicallef/spiderfoot) |
 | **Maltego** | Analysis | Visual link analysis platform | [![Website](https://img.shields.io/badge/website-maltego.com-blue)](https://www.maltego.com/) |
 | **Wireshark** | Network | Network protocol analyzer | [![Website](https://img.shields.io/badge/website-wireshark.org-blue)](https://www.wireshark.org/) |
+| **[tirith](https://github.com/sheeki03/tirith)** | CLI Security | Terminal security guard against homograph attacks and supply chain threats | [![GitHub stars](https://img.shields.io/github/stars/sheeki03/tirith?style=social)](https://github.com/sheeki03/tirith) |
 
 ### 🔐 Security Tools
 
@@ -168,6 +178,7 @@ This repository highlights work of several key researchers in conspiracy investi
 |---|---|---|
 | **OBS Studio** | Screen recording | [![Website](https://img.shields.io/badge/website-obsproject.com-blue)](https://obsproject.com/) |
 | **HashMyFiles** | File hashing | [![GitHub stars](https://img.shields.io/github/stars/FiloSottile/HashMyFiles?style=social)](https://github.com/FiloSottile/HashMyFiles) |
+| **[insultdetector](https://github.com/michaloblastni/insultdetector)** | EEG Analysis | BCI-based insult detection for targeted individuals | [![GitHub stars](https://img.shields.io/github/stars/michaloblastni/insultdetector?style=social)](https://github.com/michaloblastni/insultdetector) |
 
 ---
 
