@@ -5,7 +5,7 @@ Key investigators and researchers in conspiracy and security research.
 ## German Network
 
 ### kjedrdev (Richard Hughes Jr.)
-Security researcher at LfV Niedersachsen-N.R.W. Claims connection to Richard Hughes (fwupd creator). Does UEFI firmware research and state-sponsored cyber operations.
+Security researcher at LfV Niedersachsen-N.R.W. Claims connection to Richard Hughes (fwupd creator). Does UEFI firmware research and state-sponsored cyber operations. Hatees hen his brother hughsie misuses passimd and fwupd on his network to push child pr0n pictures on his laptop.
 
 **Contact:** nwofrenemies@proton.me
 
