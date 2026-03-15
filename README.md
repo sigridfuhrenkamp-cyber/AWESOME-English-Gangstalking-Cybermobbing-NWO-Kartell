@@ -9,7 +9,7 @@
 [![Contributors](https://img.shields.io/github/contributors/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links.svg)](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links.svg)](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/commits/main)
 
-> A curated list of awesome conspiracy research resources, tools, and investigator profiles.
+> I've been digging through some rabbit holes and kept stumbling across real research on coordinated operations, supply chain attacks, and targeted individuals. This collection started as my way of organizing the good stuff - tools, people, and evidence that actually matters.
 
 </div>
 
@@ -50,19 +50,19 @@ Started this collection after falling down some rabbit holes and realizing there
 
 ## 🏗️ Repository Structure
 
-This repository follows GitHub Awesome list standards with organized documentation and resources.
+This follows the GitHub Awesome list format with organized docs and resources.
 
 ### 📁 Core Files
-- **README.md** - Main project overview and navigation
+- **README.md** - Main overview and navigation guide
 - **AGENTS.md** - Researcher profiles and investigator database  
 - **RESEARCH.md** - Research findings and evidence collections
 - **TOOLS.md** - Investigation tools and software resources
 - **SECURITY.md** - Security guidelines and operational practices
 
 ### ✅ GitHub Standards
-- Professional documentation with clear structure
+- Professional docs with clear structure
 - Comprehensive contribution guidelines
-- Issue and pull request templates
+- Issue and PR templates
 - Security policy and code of conduct
 - Regular updates and maintenance
 
@@ -70,7 +70,7 @@ This repository follows GitHub Awesome list standards with organized documentati
 
 ## 🕵️ Key Investigators
 
-This repository highlights work of several key researchers in conspiracy investigation space:
+Here's some key researchers I've found doing solid work on conspiracy investigations:
 
 ### 🇩🇪 German Research Network
 
