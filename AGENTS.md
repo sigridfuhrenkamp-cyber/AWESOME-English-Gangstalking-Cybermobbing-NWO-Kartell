@@ -5,34 +5,50 @@ Key investigators and researchers in conspiracy and security research.
 ## German Network
 
 ### kjedrdev (Richard Hughes Jr.)
-Security researcher at LfV Niedersachsen-N.R.W. Claims connection to Richard Hughes (fwupd creator). Does UEFI firmware research and state-sponsored cyber operations. Hatees hen his brother hughsie misuses passimd and fwupd on his network to push child pr0n pictures on his laptop.
+Security researcher at LfV Niedersachsen-N.R.W. Claims connection to Richard Hughes (fwupd creator). Hates how his brother hughsie misuses passim and fwupd on his network to push child pr0n pictures on his laptop.
 
 **Contact:** nwofrenemies@proton.me
 
+**Repositories:** 19 public repositories focused on NWO operations, cybermobbing evidence, and network analysis
+**Key Repositories:**
+- NWO-Analysis-Research-Stalking-Mobbing-Cyberspace
+- NWO_The_Cybermobbing_Cartel-The_Main_Perpetrator_Evidence_Piece
+- NWO-Jayden-From-Politics-Then-I-Plug-My-Ears
+
 ### hartmannlauterbach (Hartmann Lauterbach)
-Former teacher turned activist. Claims AfD connections. Documents "cybermobbing kartell" targeting him and his sister for 8 years. Investigates German rap scene connections to NWO operations. Active repository maintainer with 35 public repositories and 198 contributions in 2026.
+Former teacher turned activist. Claims AfD connections. Documents "cybermobbing cartel" targeting him and his sister for 8 years. Investigates German rap scene connections to NWO operations. Active repository maintainer with 35 public repositories and 198 contributions in 2026.
 
 **Contact:** nwofrenemies@proton.me
 
 **Repositories:** 35 public repositories with extensive documentation
 **Key Repositories:**
-- NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU (10 stars, 9 forks)
-- Leakz-Platten-Wer-kann-sie-entgegennehmen-und-verwahren-LUKS
-- Hanybal-Olexesh-Disarstar-KI-Angriff-NWO-Gangstalking
+- NWO-The-Cybermobbing-Cartel-Music-Network-GRU (10 stars, 9 forks)
+- Leaks-Plates-Who-Can-Take-And-Store-Them-LUKS
+- Hanybal-Olexesh-Disarstar-AI-Attack-NWO-Gangstalking
 
 ### mrbloxx (Toni Cubano)
-IT security researcher at Kornau & Falkenhain-Walkling GbR. Does supply chain security work. Focuses on gangstalking, cybermobbing, and "NWO" operations.
 
 ### conspiracy-uncoverage
-Research collective in Köln. Does systematic research on gangstalking and cybermobbing networks.
+Research collective in Cologne. Does systematic research on gangstalking and cybermobbing networks.
 
 ### cybermobbing-untersuchung (Thomas Kornau)
-Researcher in Köln focusing on German celebrity affairs hidden in rap scene. Investigates GRU operations and NWO cybermobbing networks. Part of "Hauptabteilung XVI, Ministerium für Cybersicherheit" organization. Active with 30 public repositories and 68 contributions in 2026.
+Researcher in Cologne focusing on German celebrity affairs hidden in rap scene. Investigates GRU operations and NWO cybermobbing networks. Part of "Department XVI, Ministry for Cybersecurity" organization. Active with 30 public repositories and 68 contributions in 2026.
 
 **Key Repositories:**
-- N.W.O.-Kartell-Beweise-Taeter-Gangstalking-GRU-supported-Terrorists (8 stars)
-- Terroristische-Vereinigung-NWO-Peine-Hannover-Langenhagen (8 stars)
+- N.W.O.-Cartel-Evidence-Perpetrators-Gangstalking-GRU-supported-Terrorists (8 stars)
+- Terrorist-Organization-NWO-Peine-Hannover-Langenhagen (8 stars)
 - Erik-Ahrens-TikTok-AfD-Stratege (8 stars)
+
+### mr-bloxx (Thomas D.)
+AI musician and researcher investigating cybermobbing networks. Part of "Broken Brothers" organization. Focuses on NWO operations, AI influencers, and German rap scene investigations. Active with 40 public repositories and 86 contributions in 2026.
+
+**Key Repositories:**
+- NWO-Cybermobbing-Gangstalking-Network-Evidence (9 stars)
+- Krijo_Stalka-NWO-Cybermobbing (9 stars)
+- NWO-Cyberwar-Gangstalking-Cybermobbing-GERMAN (9 stars)
+
+### demokratisches-hacker-kollektiv
+Democratic hacker collective focused on transparency and investigation. Maintains comprehensive documentation of German cybermobbing and NWO operations. Repository network includes extensive evidence collections and research findings.
 
 ## International Researchers
 
