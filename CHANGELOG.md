@@ -56,7 +56,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 🔧 Technology Categories
 - **Supply Chain Security:** 7 repositories
-- **Targeted Individuals:** 6 repositories  
+- **Targeted Individuals:** 6 repositories
 - **EEG/BCI Research:** 3 repositories
 - **Security Tools:** 5 repositories
 
@@ -81,8 +81,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 📞 Contact
 
 For changelog-related questions or suggestions:
-- **Issues:** [Create an issue](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/issues)
-- **Discussions:** [Start a discussion](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/discussions)
+- **Issues:** [Create an issue](https://github.com/sigridfuhrenkamp-cyber/AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell/issues)
+- **Discussions:** [Start a discussion](https://github.com/sigridfuhrenkamp-cyber/AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell/discussions)
 - **Email:** nwofrenemies@proton.me
 
 ---

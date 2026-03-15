@@ -11,8 +11,8 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 ## 📍 Location
-- **File/Section:** 
-- **Line/Link:** 
+- **File/Section:**
+- **Line/Link:**
 
 ## 🔍 Current Behavior
 Describe what is currently happening.

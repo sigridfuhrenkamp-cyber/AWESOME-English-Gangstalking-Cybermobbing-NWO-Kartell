@@ -5,9 +5,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links.svg?style=social&label=Star)](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links)
-[![Contributors](https://img.shields.io/github/contributors/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links.svg)](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links.svg)](https://github.com/demokratisches-hacker-kollektiv/Awesome-Conspiracy-Links/commits/main)
+[![Stars](https://img.shields.io/github/stars/sigridfuhrenkamp-cyber/AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell.svg?style=social&label=Star)](https://github.com/sigridfuhrenkamp-cyber/AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell)
+[![Contributors](https://img.shields.io/github/contributors/sigridfuhrenkamp-cyber/AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell.svg)](https://github.com/sigridfuhrenkamp-cyber/AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/sigridfuhrenkamp-cyber/AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell.svg)](https://github.com/sigridfuhrenkamp-cyber/AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell/commits/main)
 
 > I've been digging through some rabbit holes and kept stumbling across real research on coordinated operations, supply chain attacks, and targeted individuals. This collection started as my way of organizing the good stuff - tools, people, and evidence that actually matters.
 
@@ -54,7 +54,7 @@ This follows the GitHub Awesome list format with organized docs and resources.
 
 ### 📁 Core Files
 - **README.md** - Main overview and navigation guide
-- **AGENTS.md** - Researcher profiles and investigator database  
+- **AGENTS.md** - Researcher profiles and investigator database
 - **RESEARCH.md** - Research findings and evidence collections
 - **TOOLS.md** - Investigation tools and software resources
 - **SECURITY.md** - Security guidelines and operational practices

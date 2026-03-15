@@ -16,9 +16,9 @@ Closes #(issue number)
 Related to #(issue number)
 
 ### 📸 Changes Made
-- 
-- 
-- 
+-
+-
+-
 
 ### 🧪 Testing
 - [ ] I have tested all links

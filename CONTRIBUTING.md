@@ -48,8 +48,8 @@ We welcome several types of contributions:
 ### 1. 🍴 Fork the Repository
 ```bash
 # Fork this repository on GitHub
-git clone https://github.com/YOUR_USERNAME/Awesome-Conspiracy-Links.git
-cd Awesome-Conspiracy-Links
+git clone https://github.com/YOUR_USERNAME/AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell.git
+cd AWESOME-English-Gangstalking-Cybermobbing-NWO-Kartell
 ```
 
 ### 2. 🌿 Create a Branch

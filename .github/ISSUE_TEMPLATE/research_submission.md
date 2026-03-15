@@ -44,9 +44,9 @@ Provide a comprehensive description of the research, tool, or investigator:
 ## 📸 Evidence & Sources
 List all supporting evidence, sources, and verification methods:
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## 🏷️ Tags/Keywords
 Add relevant tags for categorization:

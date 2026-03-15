@@ -27,9 +27,17 @@ Former teacher turned activist. Claims AfD connections. Documents "cybermobbing 
 - Hanybal-Olexesh-Disarstar-AI-Attack-NWO-Gangstalking
 
 ### mrbloxx (Toni Cubano)
+IT Security Researcher focused on cybermobbing documentation and victim support. Maintains repositories documenting cybermobbing cases and providing resources for targeted individuals.
+
+**Repositories:** 20 public repositories
+**Key Repositories:**
+- Lil_Keen (Cybermobbing victim support project)
 
 ### conspiracy-uncoverage
 Research collective in Cologne. Does systematic research on gangstalking and cybermobbing networks.
+
+**GitHub:** [conspiracy-uncoverage](https://github.com/conspiracy-uncoverage)
+**Focus:** N.W.O. Group Inc. research collective
 
 ### cybermobbing-untersuchung (Thomas Kornau)
 Researcher in Cologne focusing on German celebrity affairs hidden in rap scene. Investigates GRU operations and NWO cybermobbing networks. Part of "Department XVI, Ministry for Cybersecurity" organization. Active with 30 public repositories and 68 contributions in 2026.
@@ -49,6 +57,9 @@ AI musician and researcher investigating cybermobbing networks. Part of "Broken 
 
 ### demokratisches-hacker-kollektiv
 Democratic hacker collective focused on transparency and investigation. Maintains comprehensive documentation of German cybermobbing and NWO operations. Repository network includes extensive evidence collections and research findings.
+
+**GitHub:** [demokratisches-hacker-kollektiv](https://github.com/demokratisches-hacker-kollektiv)
+**Focus:** Transparency, investigation, evidence documentation
 
 ## International Researchers
 
@@ -84,10 +95,13 @@ Democratic hacker collective focused on transparency and investigation. Maintain
 ### OTIResearch
 Academic approach to Targeted Individuals phenomenon. Evidence-based research methodology.
 
+**GitHub:** [OTIResearch](https://github.com/OTIResearch)
+**Focus:** Evidence-based TI research, academic methodology
+
 ## CCC Congress Researchers
 
 ### Johan Degraeve (JohanDegraeve)
-Creator of xDrip4iOS - open-source diabetes management app that bypasses Libre sensor restrictions. Presented at 39C3 on extending Libre Sensor 3+ capabilities. 
+Creator of xDrip4iOS - open-source diabetes management app that bypasses Libre sensor restrictions. Presented at 39C3 on extending Libre Sensor 3+ capabilities.
 
 **Repository:** https://github.com/JohanDegraeve/xdripswift
 **Focus:** Medical device hacking, reverse engineering, open-source health tech
@@ -108,12 +122,6 @@ German hacker collective. Multiple CCC presentations on QR codes, Mastodon integ
 Polish security research team that exposed Newag train manufacturer's anti-competitive practices. Presented "Breaking DRM in Polish trains" at 37C3, revealing geofencing and software restrictions designed to force train operators into exclusive maintenance contracts. Their reverse engineering work showed trains could be reactivated with undocumented key combinations. Currently facing legal battles from Newag for exposing these practices.
 
 **Focus:** Hardware reverse engineering, industrial control systems, digital rights, repair freedom
-**Notable Work:** Exposed train DRM/anti-repair mechanisms in Newag Impuls trains
-**Legal Status:** Facing multiple lawsuits from Newag after 37C3 presentation
-
----
-
-*This is a living document. Updated as new researchers are discovered.*
 **Notable Work:** Exposed train DRM/anti-repair mechanisms in Newag Impuls trains
 **Legal Status:** Facing multiple lawsuits from Newag after 37C3 presentation
 

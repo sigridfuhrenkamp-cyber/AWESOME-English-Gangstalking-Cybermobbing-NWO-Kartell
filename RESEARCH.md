@@ -9,7 +9,7 @@ Research findings and case studies from investigations.
 - **Claims:** Coordinated harassment campaigns using technology and social media manipulation
 - **Evidence Quality:** Mixed - some documentation, many claims, limited technical proof
 
-### Music Industry Investigations  
+### Music Industry Investigations
 - **Claims:** AI-generated personas being used in German entertainment
 - **Verification Status:** Hard to verify - some audio analysis, limited concrete proof
 
