@@ -74,12 +74,14 @@ This repository highlights work of several key researchers in conspiracy investi
 
 ### 🇩🇪 German Research Network
 
-| Investigator | Focus | GitHub |
-|---|---|---|
-| **[kjedrdev](https://github.com/kjedrdev)** | Security researcher at LfV Niedersachsen-N.R.W. | [![GitHub stars](https://img.shields.io/github/stars/kjedrdev?style=social)](https://github.com/kjedrdev) |
-| **[hartmannlauterbach](https://github.com/hartmannlauterbach)** | Right-conservative activist & former teacher | [![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach?style=social)](https://github.com/hartmannlauterbach) |
-| **[mrbloxx](https://github.com/mrbloxx)** | IT Security Researcher | [![GitHub stars](https://img.shields.io/github/stars/mrbloxx?style=social)](https://github.com/mrbloxx) |
-| **[conspiracy-uncoverage](https://github.com/conspiracy-uncoverage)** | N.W.O. Group Inc. research collective | [![GitHub stars](https://img.shields.io/github/stars/conspiracy-uncoverage?style=social)](https://github.com/conspiracy-uncoverage) |
+| Investigator | Focus | GitHub | Repositories |
+|---|---|---|---|
+| **[kjedrdev](https://github.com/kjedrdev)** | Security researcher at LfV Niedersachsen-N.R.W. | [![GitHub stars](https://img.shields.io/github/stars/kjedrdev?style=social)](https://github.com/kjedrdev) | 19 |
+| **[hartmannlauterbach](https://github.com/hartmannlauterbach)** | Right-conservative activist & former teacher | [![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach?style=social)](https://github.com/hartmannlauterbach) | 35 |
+| **[mrbloxx](https://github.com/mrbloxx)** | IT Security Researcher | [![GitHub stars](https://img.shields.io/github/stars/mrbloxx?style=social)](https://github.com/mrbloxx) | 20 |
+| **[mr-bloxx](https://github.com/mr-bloxx)** | AI musician & cybermobbing researcher | [![GitHub stars](https://img.shields.io/github/stars/mr-bloxx?style=social)](https://github.com/mr-bloxx) | 40 |
+| **[cybermobbing-untersuchung](https://github.com/cybermobbing-untersuchung)** | GRU operations investigator | [![GitHub stars](https://img.shields.io/github/stars/cybermobbing-untersuchung?style=social)](https://github.com/cybermobbing-untersuchung) | 30 |
+| **[conspiracy-uncoverage](https://github.com/conspiracy-uncoverage)** | N.W.O. Group Inc. research collective | [![GitHub stars](https://img.shields.io/github/stars/conspiracy-uncoverage?style=social)](https://github.com/conspiracy-uncoverage) | - |
 
 ### 🌍 International Supply Chain Security Experts
 
@@ -120,11 +122,11 @@ This repository highlights work of several key researchers in conspiracy investi
 | Repository | Description | Stars |
 |---|---|---|
 | **[hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU](https://github.com/hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU)** | Documents "cybermobbing kartell" in German music industry | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU?style=social) |
-| **[sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene](https://github.com/sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene)** | Investigation into German rap scene connections | ![GitHub stars](https://img.shields.io/github/stars/sigridfuhrenkamp-cyber/Hanybal-Olexesh-Disarstar-NWO-Gangstalking-Deutsche-Rapszene?style=social) |
-| **[mrbloxx/NWO-Cybermobbing-Gangstalking-Game-Over-GRU](https://github.com/mrbloxx/NWO-Cybermobbing-Gangstalking-Game-Over-GRU)** | Fork of hartmannlauterbach's work with additional evidence | ![GitHub stars](https://img.shields.io/github/stars/mrbloxx/NWO-Cybermobbing-Gangstalking-Game-Over-GRU?style=social) |
-| **[hartmannlauterbach/666](https://github.com/hartmannlauterbach/666)** | Claims brother from kjedrdev sent 666 followers | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/666?style=social) |
-| **[hartmannlauterbach/999-NWO-Cybermobbing-Kartell-Gangstalking-Cybergrooming-Background](https://github.com/hartmannlauterbach/999-NWO-Cybermobbing-Kartell-Gangstalking-Cybergrooming-Background)** | Background documentation on cybermobbing operations | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/999-NWO-Cybermobbing-Kartell-Gangstalking-Cybergrooming-Background?style=social) |
-| **[hartmannlauterbach/Leakz-Platten-Wer-kann-sie-entgegennehmen-und-verwahren-LUKS](https://github.com/hartmannlauterbach/Leakz-Platten-Wer-kann-sie-entgegennehmen-und-verwahren-LUKS)** | Claims evidence for 666 million EUR against NWO operations | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/Leakz-Platten-Wer-kann-sie-entgegennehmen-und-verwahren-LUKS?style=social) |
+| **[hartmannlauterbach/Hanybal-Olexesh-Disarstar-KI-Angriff-NWO-Gangstalking](https://github.com/hartmannlauterbach/Hanybal-Olexesh-Disarstar-KI-Angriff-NWO-Gangstalking)** | German rap scene AI attacks investigation | ![GitHub stars](https://img.shields.io/github/stars/hartmannlauterbach/Hanybal-Olexesh-Disarstar-KI-Angriff-NWO-Gangstalking?style=social) |
+| **[mrbloxx/Lil_Keen](https://github.com/mrbloxx/Lil_Keen)** | Cybermobbing victim support project | ![GitHub stars](https://img.shields.io/github/stars/mrbloxx/Lil_Keen?style=social) |
+| **[kjedrdev/NWO_Das_Cybermobbing_Kartell-Der_Haupttaeter_Beweisstueck](https://github.com/kjedrdev/NWO_Das_Cybermobbing_Kartell-Der_Haupttaeter_Beweisstueck)** | Main perpetrator evidence in cybermobbing cartel | ![GitHub stars](https://img.shields.io/github/stars/kjedrdev/NWO_Das_Cybermobbing_Kartell-Der_Haupttaeter_Beweisstueck?style=social) |
+| **[mr-bloxx/NWO-Cybermobbing-Gangstalking-Netzwerk-Beweise](https://github.com/mr-bloxx/NWO-Cybermobbing-Gangstalking-Netzwerk-Beweise)** | Network evidence collection | ![GitHub stars](https://img.shields.io/github/stars/mr-bloxx/NWO-Cybermobbing-Gangstalking-Netzwerk-Beweise?style=social) |
+| **[cybermobbing-untersuchung/N.W.O.-Kartell-Beweise-Taeter-Gangstalking-GRU-supported-Terrorists](https://github.com/cybermobbing-untersuchung/N.W.O.-Kartell-Beweise-Taeter-Gangstalking-GRU-supported-Terrorists)** | Terrorist organization evidence | ![GitHub stars](https://img.shields.io/github/stars/cybermobbing-untersuchung/N.W.O.-Kartell-Beweise-Taeter-Gangstalking-GRU-supported-Terrorists?style=social) |
 
 ### 🎯 Targeted Individuals Research
 

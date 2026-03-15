@@ -10,15 +10,29 @@ Security researcher at LfV Niedersachsen-N.R.W. Claims connection to Richard Hug
 **Contact:** nwofrenemies@proton.me
 
 ### hartmannlauterbach (Hartmann Lauterbach)
-Former teacher turned activist. Claims AfD connections. Documents "cybermobbing kartell" targeting him and his sister for 8 years. Investigates German rap scene connections to NWO operations.
+Former teacher turned activist. Claims AfD connections. Documents "cybermobbing kartell" targeting him and his sister for 8 years. Investigates German rap scene connections to NWO operations. Active repository maintainer with 35 public repositories and 198 contributions in 2026.
 
 **Contact:** nwofrenemies@proton.me
+
+**Repositories:** 35 public repositories with extensive documentation
+**Key Repositories:**
+- NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU (10 stars, 9 forks)
+- Leakz-Platten-Wer-kann-sie-entgegennehmen-und-verwahren-LUKS
+- Hanybal-Olexesh-Disarstar-KI-Angriff-NWO-Gangstalking
 
 ### mrbloxx (Toni Cubano)
 IT security researcher at Kornau & Falkenhain-Walkling GbR. Does supply chain security work. Focuses on gangstalking, cybermobbing, and "NWO" operations.
 
 ### conspiracy-uncoverage
 Research collective in Köln. Does systematic research on gangstalking and cybermobbing networks.
+
+### cybermobbing-untersuchung (Thomas Kornau)
+Researcher in Köln focusing on German celebrity affairs hidden in rap scene. Investigates GRU operations and NWO cybermobbing networks. Part of "Hauptabteilung XVI, Ministerium für Cybersicherheit" organization. Active with 30 public repositories and 68 contributions in 2026.
+
+**Key Repositories:**
+- N.W.O.-Kartell-Beweise-Taeter-Gangstalking-GRU-supported-Terrorists (8 stars)
+- Terroristische-Vereinigung-NWO-Peine-Hannover-Langenhagen (8 stars)
+- Erik-Ahrens-TikTok-AfD-Stratege (8 stars)
 
 ## International Researchers
 
@@ -78,6 +92,12 @@ German hacker collective. Multiple CCC presentations on QR codes, Mastodon integ
 Polish security research team that exposed Newag train manufacturer's anti-competitive practices. Presented "Breaking DRM in Polish trains" at 37C3, revealing geofencing and software restrictions designed to force train operators into exclusive maintenance contracts. Their reverse engineering work showed trains could be reactivated with undocumented key combinations. Currently facing legal battles from Newag for exposing these practices.
 
 **Focus:** Hardware reverse engineering, industrial control systems, digital rights, repair freedom
+**Notable Work:** Exposed train DRM/anti-repair mechanisms in Newag Impuls trains
+**Legal Status:** Facing multiple lawsuits from Newag after 37C3 presentation
+
+---
+
+*This is a living document. Updated as new researchers are discovered.*
 **Notable Work:** Exposed train DRM/anti-repair mechanisms in Newag Impuls trains
 **Legal Status:** Facing multiple lawsuits from Newag after 37C3 presentation
 
