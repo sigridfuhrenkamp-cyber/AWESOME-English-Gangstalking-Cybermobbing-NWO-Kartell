@@ -69,7 +69,9 @@ Democratic hacker collective focused on transparency and investigation. Maintain
 |---|---|---|---|
 | **[lyvd](https://github.com/lyvd)** | Vietnam | Open-source supply chain security | [![GitHub stars](https://img.shields.io/github/stars/lyvd?style=social)](https://github.com/lyvd) |
 | **[sumanrox](https://github.com/sumanrox)** | India | Offensive security research | [![GitHub stars](https://img.shields.io/github/stars/sumanrox?style=social)](https://github.com/sumanrox) |
-| **[bryancowan](https://github.com/bryancowan)** | USA | Supply chain security products | [![GitHub stars](https://img.shields.io/github/stars/bryancowan?style=social)](https://github.com/bryancowan) |
+| **[bureado](https://github.com/bureado)** | Spain/International | Open-source supply chain security | [![GitHub stars](https://img.shields.io/github/stars/bureado?style=social)](https://github.com/bureado) |
+| **[vishalgarg-sec](https://github.com/vishalgarg-sec)** | UK | Software supply chain security knowledge base | [![GitHub stars](https://img.shields.io/github/stars/vishalgarg-sec?style=social)](https://github.com/vishalgarg-sec) |
+| **[s3c2](https://github.com/s3c2)** | International | Secure Software Supply Chain Center | [![GitHub stars](https://img.shields.io/github/stars/s3c2?style=social)](https://github.com/s3c2) |
 
 ### 🎯 Targeted Individuals Researchers
 
@@ -79,6 +81,49 @@ Democratic hacker collective focused on transparency and investigation. Maintain
 | **[michaloblastni](https://github.com/michaloblastni)** | International | EEG-based TI detection | [![GitHub stars](https://img.shields.io/github/stars/michaloblastni?style=social)](https://github.com/michaloblastni) |
 | **[wakaztahir](https://github.com/wakaztahir)** | International | Personal TI documentation | [![GitHub stars](https://img.shields.io/github/stars/wakaztahir?style=social)](https://github.com/wakaztahir) |
 | **[tabakomk](https://github.com/tabakomk)** | International | JavaScript TI tools | [![GitHub stars](https://img.shields.io/github/stars/tabakomk?style=social)](https://github.com/tabakomk) |
+| **[crazyfyi](https://github.com/crazyfyi)** | International | Mind reading & brain mapping research | [![GitHub stars](https://img.shields.io/github/stars/crazyfyi?style=social)](https://github.com/crazyfyi) |
+| **[jmcveigh](https://github.com/jmcveigh)** | International | Legal research on predatory gangstalking | [![GitHub stars](https://img.shields.io/github/stars/jmcveigh?style=social)](https://github.com/jmcveigh) |
+
+### 📰 Disinformation Researchers
+
+| Investigator | Location | Focus | GitHub |
+|---|---|---|---|
+| **[EmmiBevensee](https://github.com/EmmiBevensee)** | International | Social media analysis & disinformation tracking | [![GitHub stars](https://img.shields.io/github/stars/EmmiBevensee?style=social)](https://github.com/EmmiBevensee) |
+| **[DFRLab](https://github.com/DFRLab)** | International | Disinformation classification & analysis | [![GitHub stars](https://img.shields.io/github/stars/DFRLab?style=social)](https://github.com/DFRLab) |
+| **[FloFloB](https://github.com/FloFloB)** | International | EUvsDisinfo dataset analysis | [![GitHub stars](https://img.shields.io/github/stars/FloFloB?style=social)](https://github.com/FloFloB) |
+| **[mdepak](https://github.com/mdepak)** | International | Fake news detection resources | [![GitHub stars](https://img.shields.io/github/stars/mdepak?style=social)](https://github.com/mdepak) |
+
+### 🇷🇺 Russian/GRU Researchers
+
+| Investigator | Location | Focus | GitHub |
+|---|---|---|---|
+| **[BushidoUK](https://github.com/BushidoUK)** | International | Russian APT tool matrix & GRU analysis | [![GitHub stars](https://img.shields.io/github/stars/BushidoUK?style=social)](https://github.com/BushidoUK) |
+| **[curated-intel](https://github.com/curated-intel)** | International | Ukraine cyber operations & Russian threats | [![GitHub stars](https://img.shields.io/github/stars/curated-intel?style=social)](https://github.com/curated-intel) |
+| **[cyware-labs](https://github.com/cyware-labs)** | International | Ukraine-Russia cyber intelligence | [![GitHub stars](https://img.shields.io/github/stars/cyware-labs?style=social)](https://github.com/cyware-labs) |
+
+### 🛡️ Harassment & Mobbing Researchers
+
+| Investigator | Location | Focus | GitHub |
+|---|---|---|---|
+| **[conversationai](https://github.com/conversationai)** | International | Online harassment detection & management | [![GitHub stars](https://img.shields.io/github/stars/conversationai?style=social)](https://github.com/conversationai) |
+| **[Altaf-01](https://github.com/Altaf-01)** | International | Workplace sexual harassment detection | [![GitHub stars](https://img.shields.io/github/stars/Altaf-01?style=social)](https://github.com/Altaf-01) |
+| **[amir-karami](https://github.com/amir-karami)** | International | Workplace sexual harassment datasets | [![GitHub stars](https://img.shields.io/github/stars/amir-karami?style=social)](https://github.com/amir-karami) |
+| **[maria-antoniak](https://github.com/maria-antoniak)** | International | Harassment in academic research | [![GitHub stars](https://img.shields.io/github/stars/maria-antoniak?style=social)](https://github.com/maria-antoniak) |
+
+### 🔍 Grooming & Exploitation Researchers
+
+| Investigator | Location | Focus | GitHub |
+|---|---|---|---|
+| **[SimonIyamu](https://github.com/SimonIyamu)** | International | Online grooming detection | [![GitHub stars](https://img.shields.io/github/stars/SimonIyamu?style=social)](https://github.com/SimonIyamu) |
+| **[ashemery](https://github.com/ashemery)** | International | Offensive security exploitation | [![GitHub stars](https://img.shields.io/github/stars/ashemery?style=social)](https://github.com/ashemery) |
+
+### 🏛️ Government Surveillance Researchers
+
+| Investigator | Location | Focus | GitHub |
+|---|---|---|---|
+| **[NationalSecurityAgency](https://github.com/NationalSecurityAgency)** | USA | NSA open source projects | [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency?style=social)](https://github.com/NationalSecurityAgency) |
+| **[nsacyber](https://github.com/nsacyber)** | USA | NSA cybersecurity directorate | [![GitHub stars](https://img.shields.io/github/stars/nsacyber?style=social)](https://github.com/nsacyber) |
+| **[DeepLab](https://github.com/DeepLab)** | International | Privacy & anti-surveillance tools | [![GitHub stars](https://img.shields.io/github/stars/DeepLab?style=social)](https://github.com/DeepLab) |
 
 ### 🔒 Security Tool Developers
 
